@@ -1,0 +1,284 @@
+PERK,CLASS,TRIGGER,EFFECT,ENHANCEMENT,USAGE,RANK,TIER
+Eager Edge,utility,"Readying sword
+3s ICD",80% increased lunge for 1s,"20% extra lunge
+0.5s duration",defines an entire subset of endgame PvE,1,S
+Envious Arsenal,refill,"Dealing damage with both other weapons, then readying",Refills mag,20 inventory size,class-agnostic BnS-compatible reloads,2,S
+One-Two Punch,utility,12 pellets of shotgun hit,100% melee damage for 1.22s,10 pellets,foundation of various meta-defining melee builds,3,S
+Bait and Switch,sustained,Damage with all weapons (7s max between),30% damage for 10s,1s duration,lower setup alternative to Elemental Honing,4,S
+Elemental Honing,sustained,Dealing different elemental damage (5 stacks),Up to 35% damage for 20s (40% for kinetics),3s duration,best setup sustained DPS perk in the game,5,S
+Heal Clip,utility,Kill-reload within 5.3s,"x2 Cure for player
+x1 Cure to allies within ?m",?s kill-reload time,subclass-agnostic survivability and Benevolence procs,6,S
+Fourth Time's the Charm,"overflow
+ammo",4 precision hits with 2s between,2 ammo refund,1s extra time,literally (nearly) doubles total damage on precision weapons on top of effectively overflowing,7,S
+Relentless Strikes,ammo,3 hits with 2s between,1 ammo,?s tolerance,makes swords the highest total damage weapons in the game,8,S
+Jolting Feedback,splash,"Multiple hits within ?s, reduced if amplified",Inflicts jolt,Less hits needed if not amplified,"on-hit champ stun, stagger, and decent add clear",9,A
+Destabilizing Rounds,splash,"Weapon kill
+1.5 ICD","Volatile explosion
+Volatile Rounds for 2s on kill splash hit",?s reduced ICD,probably the best on-kill splash effect in the game,10,A
+Redirection,burst,"Hits against minors (30 stacks, 2 per)","2x damage against elites+ at 3 stacks or more, 3 stacks per hit consumed","2 stacks consumed, 2 stacks for 2x damage",excellent storable damage perk on DPS specials and wave frames,11,A
+Kinetic Tremors,splash,Multiple hits on enemy within 3s,3 shockwaves under target,Reduced hit count,"versatile: add clear, major chip, and even boss damage",12,A
+Trench Barrel,sustained,Melee damage,"50% damage, 30 handling, 30 reload for 5s or 3 shots",5 stats,extremely high damage boost for now-ranged melee options,13,A
+Chaos Reshaped,"sustained
+utility","In combat every 5s for 12s
+Above requirement for additional 12s","20% damage for 7s
+35% damage for 7s, 35 HP every 7s",-0.5s combat duration,"highest non-Surrounded sustained damage, plus small health ticks",14,A
+Chill Clip,utility,≥50% mag,x50 slow stacks (x40 for rapid fusions) on hit,5 stability,BiS champ stun perk on every weapon type,15,A
+Physic,utility,6 healing hits on allies within 1s of each,Restoration x1 for 4-6s for user,"0.5s with Solace
+1s without","BiS support auto perk, doubles its use cases",16,A
+Attrition Orbs,utility,"67% of mag hit + 2, rounded down (bows: 5, swords: 10)",Creates an 0.8% Super Orb of Power,0.3% more Super,extremely potent orb generation on certain weapon types,17,A
+Incandescent,splash,Weapon kill,30(40) scorch to enemies within 4-8m,5 scorch,excellent stagger and simple trigger splash damage,18,A
+Air Trigger,"reload
+ammo","Passive
+Airborne","30 inventory size
+30 reload, 0.8x reload duration","10 inventory size
+5 reload",Field Prep without the awkward reload requirement,19,A
+Rewind Rounds,overflow,Emptying mag,"60% of hits refilled, hits within 1s of proc don't count",70% of hits,almost Envious Assassin with zero setup requirement,20,A
+Firefly,"splash
+reload",Precision kill,"Solar explosion on target, 50 reload for 6s",5 reload,"decent splash with great reload, good slot efficiency",21,A
+Chain Reaction,splash,Weapon kill,Elemental explosion on target,"20 guard endurance
+20 inventory size","still decent splash post-nerf, but only really relevant on specials",22,B
+Voltshot,splash,Kill-reload within 5.3s,Next hit within 7s applies jolt,1s duration,decent staggering add clear with reduced uptime due to kill-reload requirement,23,B
+Frenzy,"sustained
+reload",Damage dealt/received every 5s for 12s,"15% damage, 100 handling, 100 reload for 7s",N/A,"all-in-one stat and damage package, just missing splash",24,B
+Cascade Point,burst,Reading within 5s or kill or precision hits with another weapon,0.6x firing delay (0.7x for SMG/LMG) for 2.5s,0.25s duration,niche extreme burst DPS perk,25,B
+Reciprocity,utility,Healing ally,3 HP per hit,0.5 more HP,essentially gives Restoration if held down,26,B
+Repulsor Brace,utility,Weapon kill on void debuffed enemy,45 HP Void Overshield for 8s,2s duration,sustain with Destabilizing Rounds and void builds,27,B
+Withering Gaze,utility,1.5s ADS without firing,Weaken applied on next shot,1.4s ADS?,would've been broken in Y4; still a free standard weaken source from a legendary perk,28,B
+Bipod,utility,Passive,"1 mag, 5 reserves, 0.75x firing delay
+-30 blast, -20 reload, -25% damage","5 blast, 5 reload","solves rocket low shot count issue when combined with Pack Hunter, expands viability",29,B
+Field Prep,"reload
+ammo","Passive
+Crouching","30 inventory size
+50 reload, 0.8x reload/ready/stow duration","10 inventory size
+5 reload","sizable reserves boost, awkward reload trigger but very potent",30,B
+Demolitionist,"ability
+refill","Weapon kill
+Grenade use, 3s ICD","10-20% grenade energy
+Weapon refill",11-22% energy,decent grenade regen (weapon-dependent) and refill on slow reload weapons,31,B
+Shoot to Loot,"refill
+utility",Shooting an ammo brick,Picks up ammo and orbs and refills all weapons,5 range,QoL and damage rotation option in niche endgame damage scenarios,32,B
+Slideshot,refill,Slide (0.3s ICD),"15% mag refill, 20 range, 30 stability for 2.5s (shot 1)",?,"transformative for single shot weapon uptime, multishot slides",33,B
+Slideways,refill,Slide (0.5s ICD),"15% mag refill, 20 stability, 20 handling for 3s","5 stability, handling",transformative for single shot weapon uptime,34,B
+Whirlwind Blade,sustained,Sword hit (10 stacks),3-30% damage for 3.5s,0.5s duration,BiS consistent sustained sword damage perk,35,B
+Envious Assassin,overflow,Weapon ready after another weapon's kills,"10%-20% extra mag per kill, max of 3x mag",2.5% more per kill,still a no swap tripling of base mag even post-nerf,36,B
+Auto-Loading Holster,refill,Weapon stowed,Refills weapon after 3.5s,0.2s faster reload,still provides high QoL on slow reload weapons even post-nerf,37,B
+Archer's Gambit,"reload
+spree",Hipfired precision hit,"?s reload, ?x reload duration, 0.4x draw time for 4s
+Can be extended to 8s",?s duration,very significant on-hit draw time reduction,38,C
+Desperate Measures,spree,"Weapon kill
+Grenade or melee kill","10% damage for 7s
+20-30% damage for 7s, refreshed by weapon",0.5s duration,"very consistent spree perk in current sandbox, activates at tier 2 while stowed",39,C
+Lead from Gold,ammo,Power ammo pickup,25% of special ammo filled (halved if 2 specials),15% more ammo,"overrated, but still useful for special ammo upkeep in some cases",40,C
+Recombination,burst,Elemental kill (10 stacks),10-100% damage for 1 shot,8 stacks,enhances burst of weapons like slugs/aggressive snipers,41,C
+Detonator Beam,splash,25 hits within ?s of each,Explosion around target (does ~6.5x base shot),5?s less hits,neutral major shred trace perk,42,C
+Reconstruction,overflow,6 seconds without shooting,"10% mag refill, up to 100% overflow",5.5 seconds,free overflow despite massive time requirement,43,C
+Surrounded,sustained,"Within 8m of 3+ enemies, 1.5s linger",35-40% damage,42-47% damage,"surprisingly applicable in roam content, niche for sustained damage",44,C
+Controlled Burst,sustained,Weapon kill or all bolts hit,"20% damage, 0.9x charge for 2s",N/A,extremely consistent sustained fusion damage,45,C
+Precision Instrument,sustained,Weapon hit (6 stacks),4-25% precision damage for 1.1s (2.1s for charged),Up to 30% damage,like Focused Fury with higher peak damage but no swapping or reloading (without RoF and such),46,C
+One for All,spree,Hitting 3 enemies with 3s between,"35% damage for 10s, non-refreshable",1s duration,"great on splash weapons (compressed waves, area denials), decent otherwise",47,C
+Impulse Amplifier,reload,Passive,"35% velocity, 20 reload, 0.85x reload duration (0.8x on rockets)",5 reload,excellent zero requirement reload perk on certain weapon types,48,C
+Explosive Light,"burst
+splash",Orb pickup (up to 6 stacks),"~25-44% damage, 100 blast",Up to 7 stacks,"decent to good damage, but dependent on either short phase or orb gen roam context",49,C
+Killing Tally,spree,Weapon kill (3 stacks),10-30% damage until stow/reload,10 mag,consistent spree damage with an overflow/refill perk,50,C
+Enlightened Action,reload,"Dealing damage (up to 12 stacks, hand cannons give 3 per hit)",~4 handling and reload per stack for 2s (max 50),"5 handling, 5 reload?",like Rapid Hit but worse stats and no crit requirement,51,C
+Rapid Hit,reload,Precision hit (5 stacks),"5-60 reload, 0.92x reload duration, 2-25 stability for 2s",?,"best on-hit reload perk, requires crits",52,C
+Firing Line,sustained,Within 15m of 2+ allies,20% precision damage,10 handling,decent sustained damage perk in teams,53,C
+Vorpal Weapon,sustained,"Miniboss, boss, or vehicle",10-20% damage,"5 stability
+5 guard resistance",good on LP HCs and some specials,54,C
+High Ground,"spree
+sustained","Above enemy and grounded
+Weapon kill (3 stacks)","25% damage for 7s
+10-25% damage for 7s",5 reload,like Rampage with sustainable duration and instant stack option,55,C
+Sword Logic,spree,Weapon kill (4 stacks),15-50% for 5.5-15.5s (scales based on enemy rank),1s duration,combatant tier gimmick doesn't work out due to time between engagements,56,D
+Triple Tap,"overflow
+ammo",3 precision hits with 2s between,1 ammo refund,1s extra time,FTTC but half efficacy and worse per-mag damage,57,D
+Eddy Current,reload,"Stopping after 1.5s sprint
+Amplified","?s handling, 0.95x animations, 20 reload, 0.95x reload duration for 3s
+60 reload + above benefits","?s duration
+? reload
+?x reload duration",pretty consistent strong QoL stat buff in current sandbox,58,D
+Golden Tricorn,spree,"Weapon kill
+Matching ability kill with x1 active","15% damage for 7s
+50% damage for 10s",1s duration for x1,"very high damage spree perk, but requires constant matching ability kills",59,D
+Grave Robber,refill,"Melee kill or powered melee damage, 3s ICD",Mag refill,5 handling,BiS Trench and 12P reload perk,60,D
+Archer's Tempo,"reload
+spree",Precision hit,0.75x draw time for 3s,1s duration,"worse than Archer's Gambit, but easy to use uptime bow perk",61,D
+Clown Cartridge,overflow,Reload,10% to 50% mag overflow (rounds up),3% average,like Ambitious Assassin but doesn't need kills to reach 2 mag on relevant weapons,62,D
+Slice,utility,Class ability usage,"5 hits of Sever for 8s
+Hits refresh duration",0.5s extra time,useful for severing boss-tier enemies for Courage and damage reduction,63,D
+Cold Steel,utility,Sword hits,"x40 slow stacks on light, x60 on heavy","10 ammo, 10 mag",Chill Clip equivalent on a more risky weapon family,64,D
+Focused Fury,sustained,Precision hits for 50%+ mag,20% damage for 11s,1s duration,"refreshable, swappable, consistent solo sustained damage",65,D
+Explosive Payload,"utility
+spree",Passive,"15% damage, explosive shot",5 reload,"decent base damage, stagger, and champ stun interactions",66,D
+Timed Payload,"utility
+spree",Passive,"15% damage, delayed explosive shot",5 stability,"decent base damage, stagger, and champ stun interactions",67,D
+Ambitious Assassin,overflow,Kill-reload within 7s,Mag overflow based on kills (up to +150%),1s kill-reload time,great on high lethality low mag weapons (like wave frames) without Clown,68,D
+Overflow,overflow,Special or power ammo pickup,Mag refill and 100% overflow,120% overflow,mix of okay QoL trigger and decent effect for DPS setup,69,D
+Reservoir Burst,"splash
+burst","Mag full
+Passive","25% damage, explosion on corpse
+30 mag",5 stability,"okay add clear in mid-tier content, decent sustained damage with overflow perk",70,D
+Dragonfly,splash,Precision kill,Elemental explosion on target,5 reload,higher splash than Firefly without reload bump,71,D
+Circle of Life,spree,Support Frame Boost to ally,25% damage for 10s,1s duration,"extremely straightforward trigger, damage is alright",72,D
+Explosive Head,utility,Passive,"15% damage, explosive detonation",5 accuracy,decent splash and consistent damage on bows,73,D
+Loose Change,reload,Elemental debuff application,"50 reload, 20 aim assist, -20% ADS penalty for 4.5s",0.5s duration,"like Collective Action, actually pretty easy to trigger in current sandbox",74,D
+Rolling Storm,splash,Weapon kill,x1 Bolt Charge (doubled if Amplified),x1 more Bolt Charge if at 0 stacks,"doesn't significantly effect Bolt Charge builds, just okay otherwise",75,D
+Threat Detector,reload,Within 15m of 1+ enemies (up to 2),"15-40 stability, 25-100 handling, 0.9-0.81x handling duration, 18-60 reload",3-4 stats,"can be used to boost handling or to boost reload, only good near 2 enemies",76,D
+Subsistence,refill,Weapon kill,10-17% mag refill,20% refill,situational refill dependent on TtK,77,E
+Stats for All,reload,Hitting 3 enemies with 3s between,"10 range, 10 stability, 35 handling, 35 reload, 0.95x reload duration for 10s, non-refreshable",1s duration,decent paired with OfA,78,E
+Onslaught,spree,Weapon kill (3 stacks),"0.84x-0.63x firing delay, 15-35 reload for 4.5s",?s duration,"underrated, ~59% DPS increase and reload perk, only problem is duration and annoying to max",79,E
+Swashbuckler,spree,"Weapon kill (1 stack)
+Melee kill (5 stacks)",7-33% damage for 4.5s,2s duration,better duration and uptime vs. AJ,80,E
+Master of Arms,spree,"Any weapon kill (2 stacks, drops to x1 when x2 expires)","15% damage for 7s, then 25% damage for 4s",1s duration,"like Paracausal Affinity, but layered uptime and higher max",81,E
+Paracausal Affinity,spree,Kill that matches weapon alignment,20% damage for 6s,1s duration,basically guaranteed spree perk,82,E
+Adrenaline Junkie,spree,"Weapon kill (1 stack)
+Grenade kill (5 stacks)","~7% to ~33% damage, +20 handling for 4.5s",0.5s duration,mediocre uptime but easy to max with grenade builds,83,E
+Headstone,splash,Precision kill,Stasis crystal spawn on corpse,5 stability,stasis fragment synergy,84,E
+Pugilist,ability,"Weapon kill
+Melee damage","10-20% melee energy
+35 handling for 3s",11-22% energy,melee regen on titan,85,E
+Collective Action,spree,Subclass item pickup,"20% damage for 7s
+Duration extended up to 12s",1s initial duration,fairly consistent spree perk in current sandbox,86,E
+Rimestealer,utility,Crystal or frozen enemy shatter,Frost Armor x1,Frost Armor x2,Frost Armor source on stasis builds,87,E
+Close to Melee,sustained,Glaive projectile kill,"30% glaive melee damage for 10s
+Extended by 5s on any glaive damage",1s duration,sustained glaive melee damage,88,E
+Demoralize,splash,"Precision kill
+1.5?s ICD",Weaken explosion,?s reduced ICD,Destabilizing's less useful younger brother,89,E
+Hatchling,splash,"Precision kill
+3 kills with 3s between",Threadling spawn on corpse,5 handling,worst 3.0 splash effect,90,E
+Tear,splash,"Precision kill
+1.5?s ICD",Sever explosion,?s reduced ICD,"similar to Demoralize, not really a needed niche",91,E
+Dual Loader,reload,Passive,Loads 2 ammo at a time,3 ammo at a time,great with low RoF Trench shotguns,92,E
+Discord,ammo,Weapon ready within 7?s of another weapon kill,Refill (primary) / ammo refund (special) on kill for 7s,1s duration,special ammo spam,93,E
+Deconstruct,sustained,~50% of mag hit with 6s between hits,"40% damage against constructs/vehicles for 5s
+10% mag refill",1s duration,vehicle/construct damage,94,E
+Flash Counter,utility,Blocking any damage,Emits a disorienting blast,10 ammo,utility blind for a movement sword,95,E
+Full Court,sustained,Projectile 0.2-1.1s airborne,0-25% explosive damage,5 blast,niche sustained damage for HGLs,96,E
+Desperado,spree,Precision kill-reload within 5.2s,0.7x firing delay for 6s,1s duration,tier 2 Onslaught equivalent for one kill,97,E
+Strategist,ability,"Weapon kill
+Class ability usage","10-20% class ability energy
+? stability for ?s",11-22% energy,regenerating rift,98,E
+Under-Over,utility,Passive,"125% damage to shields and overshields
+50% damage to Barrier shields",?% damage,Barrier primaries,99,E
+Adagio,spree,Weapon kill,"30% damage, +10 range, 1.2x firing delay for 7s",1s duration,single shot damage on rocket sidearms,100,E
+Unrelenting,utility,Every 3 minors within 5s / 1 elite+ kill,80 HP and starts health regen,5 HP,sustain on high lethality weapons,101,E
+Thresh,ability,Weapon kill,1-1.5% extra super energy,1.33-2% energy,weapon-based super farming,102,F
+Wellspring,ability,Weapon kill,8% ability energy split equally,1% energy,mediocre ability regen on wave frames,103,F
+Successful Warm-Up,spree,Weapon kill,"0.625x charge/draw for 6s, more kills give 4s, up to 20s",Kills give 5s,potentially strong if fusion minor scalar gets buffed,104,F
+Target Lock,sustained,"Hits with 0.2s between, >12.5% mag",Scales from 17-40% damage,19-45% damage,LMG damage,105,F
+Cluster Bomb,sustained,Passive,Explosions release 8 clusters,5 blast,situationally decent depending on boss model,106,F
+Tracking Module,utility,ADS,Rockets track enemies,5 blast,good frame + moving boss,107,F
+Beacon Rounds,reload,Weapon kill (4 stacks),"15 reload, 0.9x reload duration, 45% cone, tracking for 6s",1s duration,middling reload buff with unnecessary QoL tracking,108,F
+Recycled Energy,ability,Kill-reload within ?s,?% energy to least-charged ability,?% more energy,worse than Wellspring and co.,109,F
+Multikill Clip,spree,Kill-reload within 3.6s (3 stacks),17-50% damage for 5s,0.5s duration,potentially decent on wave frames and other high lethality splash weapons,110,F
+Compulsive Reloader,reload,>50% mag,"50 reload, 0.95x reload duration",5 reload,playstyle and weapon-dependent,111,F
+Ensemble,reload,Within 15m of ally,"30 handling and 40 reload, lingers for 1.5s",5 more stats,acceptable in team settings,112,F
+Feeding Frenzy,reload,Weapon kill (up to 5 stacks),"8-100 reload (50 on 2nd stack), 0.975-0.8x reload duration for 3.5s",13-100 reload,decent on spree primaries,113,F
+Lasting Impression,sustained,Passive,"50 blast, delayed detonation, 20% damage",5 blast,outdated unconditional damage boost,114,F
+Meganeura,splash,Precision hit (3 stacks),67-180% Dragonfly damage for 3.5s,?,essentially nonexistent,115,F
+Disruption Break,utility,Elemental or Barrier shield break,50% more kinetic damage to affected target for 5.5s,?s duration,shielded high-health targets rare,116,F
+En Garde,burst,Readying sword,30% damage for 1.5s,0.5s duration,single target burst damage,117,F
+Kill Clip,spree,Kill-reload within 3.6s,25% damage for 5s,0.5s duration,decent on wave frames,118,F
+Shield Disorient,utility,Matching shield break,Explosion that disorients for 5s within 7m,N/A,usually not very relevant given current sandbox,119,F
+Genesis,utility,"Shield break
+Matching shield hit","Mag refill
+Refunds 1 ammo",5 handling,okay on Barrier primaries,120,F
+Energy Transfer,utility,Blocking damage with sword,0.5-1.5% class energy per blocked damage,0.625%-1.55% energy,underrated but class ability not high value,121,F
+Immovable Object,utility,Blocking and stationary,90% more energy per hit,10% energy,underrated but requires no movement,122,F
+Melee Momentum,utility,Glaive melee kill,?% glaive energy and -?% block movement penalty for ?s,?% more energy,perhaps a niche option for glaive melee-centric builds,123,F
+Slickdraw,PvP,Passive,"100 handling, 0.95x ready, -20% cone",-15% cone,niche swap rotations,124,F
+Quickdraw,PvP,Weapon ready,"100 ready/stow handling, 0.95x ready duration for 1s or ADS",5 handling,niche swap rotations,125,F
+Danger Zone,utility,Within 15m of 3+ enemies,"?% blast, lower self damage, lingers for 3.5s",5 blast passively,rocket jumping :D,126,F
+Harmony,spree,Weapon ready within 3s of another weapon kill,"20% damage, 15 handling for 7s",1s duration,better alternatives in same damage tier,127,G
+Cornered,burst,Within 15m of 2+ enemies,"0.85x charge/draw, lingers for 1.5s","5 stability passively
+10 stability with perk",extremely niche; paired with Surrounded,128,G
+Backup Plan,burst,"Weapon ready
+3.5s ICD","0.7x charge, -20% damage, 100 handling for 2s",0.5s duration,lowering initial charge on high-impacts,129,G
+Outlaw,reload,Precision kill,"70 reload, 0.9x reload duration for 6s",1s duration,outdated trigger,130,G
+Rampage,spree,Weapon kill (3 stacks),10-33% damage for 4.5s,0.5s duration,much better alternatives,131,G
+Unstoppable Force,utility,Blocking damage,20% projectile damage for 4s,1s duration,unhelpful boost to offensive aspect of glaives,132,G
+Tireless Blade,ammo,2 kills,1 ammo,Chance for 2 ammo,worse than Relentless in every circumstance,133,G
+Blunt Execution Rounds,burst,"Melee damage within 15m of enemy
+4s ICD",6x damage and 100 handling for 10s or one burst,1s duration,ICD keeps it from being great,134,G
+Counterattack,burst,Blocking an attack 0.5s after blocking,50% damage for 2s,1s duration,very inconsistent upkeep,135,G
+High-Impact Reserves,sustained,Mag is 50-0%,12.1-25.6% damage,55% start,worse than Vorpal across entire mag,136,G
+Adaptive Munitions,utility,Unmatched or Barrier shield damage,On-hit scaling to ~50% damage,1.4x more damage,Barrier primaries,137,G
+Osmosis,utility,Grenade use,"50% mag refill, weapon becomes super element (only refills once per ready)",5 handling,"affinity change is useless, mag refill is okay",138,G
+Permeability,utility,Class ability usage,"50% mag refill, weapon becomes super element (only refills once per ready)",5 handling,"affinity change is useless, mag refill is okay",139,G
+Celerity,reload,"Last guardian standing
+Passive","100 handling, 100 reload, radar while ADS
+20 handling, 20 reload",N/A,better alternatives,140,G
+Elemental Capacitor,reload,Passive (based on super),"50 reload (solar), 50 handling (arc)
+Other subclasses useless stats",5 more stats,better subclass-agnostic alternatives,141,G
+Surplus,reload,Abililty charges available (3 stacks),"5-25 stability, 5-60 handling, 10-60 reload",? stats,more consistent alternatives,142,G
+Sleight of Hand,reload,Ready within 3.5s of other weapon or ability kills (3 stacks),"10-30 stability, handling, and reload for 7.5s",1s duration,better alternatives,143,G
+Keep Away,reload,No enemies within 15m,"10 range, 30 reload",2 more stats,"decent reload, just better options",144,G
+Turnabout,utility,Elemental shield break,30 HP overshield for 10s,1.4s duration,non-3.0 overshield with very low HP,145,G
+Mulligan,PvP,Missing,20-35% chance to refund ammo,25-40% chance,interaction with Armor-Piercing Rounds,146,G
+Snapshot Sights,PvP,Passive,0.5x ADS (0.8x for specials),5 stability,QoL on snipers,147,G
+Lone Wolf,PvP,"Passive
+No allies within 15m","10 aim assist, 0.9x ADS duration, 10 AE
+Above effects doubled","1 aim assist, 0.05x ADS duration, 2 AE",pseudo-Snapshot,148,G
+Tap The Trigger,PvP,Firing,"40 stability, -50% recoil, -10% cone for 0.6s","0.16s duration
+? stats",Shoot to Loot traces,149,G
+Reversal of Fortune,PvP,Missing twice in 6s,Refunds 1 ammo,N/A,"possible interaction with Armor-Piercing Rounds, otherwise useless",150,G
+Sympathetic Arsenal,"refill
+reload","Kill-reload within 3.6s
+Passive","Refills stowed weapons
+20 reload",?s tolerance,Envious Arsenal's younger and much less cool brother,151,G
+Replenishing Aegis,refill,Blocking and taking damage,"1 ammo refilled, 1s ICD",?s ICD,ICD stops it from being useful,152,G
+Perpetual Motion,reload,"While moving for 2-10s, stops after 0.5s","10-20 stability, handling, reload",2-9s,annoying upkeep and pitiful stats,153,G
+Assassin's Blade,spree,Weapon kill,"15% damage, 9m/s movement for 5s",0.5s duration,better roam perks,154,G
+Magnificent Howl,spree,Precision kill-reload (10 stacks),"50% damage per shot per stack
+Precision kills add one stack",5 reload,awful damage return,155,G
+Full Auto Trigger System,burst,Passive,0.9x fire rate recovery on shotguns,N/A,worse Cascade Point,156,G
+Box Breathing,burst,1.5s ADS without firing,Precision multiplier up by 1 for one shot,-0.1s ADS time,awful damage return,157,G
+Reverberation,splash,Weapon kill,100 blast radius for 5.5s,0.5s duration,better alternatives or literally does nothing,158,G
+Bottomless Grief,reload,"Last guardian standing
+Passive","Kills refill magazine
+30 mag",N/A,mag increase never worth,159,G
+Kickstart,burst,Sprinting for 1.5s into slide,"15% damage, 0.8x charge for ?s",?s duration,boost awful and short,160,G
+Valiant Charge,utility,Blocking damage,80% lunge distance for 1s,?s duration,Eager better universally post-healing patch,161,G
+Duelist's Trance,utility,Sword kill,"60 guard stats, 60 charge until stowed",5 extra to all stats,60 charge never worth over Relentless,162,G
+Pulse Monitor,refill,Critical health,"50 handling, 0.95x ready/stow, mag refresh",Higher health,low health rotations are a gimmick,163,G
+Shattering Blade,burst,Heavy attack that fully depletes ammo,67% damage,N/A,awful damage return,164,G
+Sneak Bow,reload,Crouching,"? reload, 0.8x reload duration",? stability and reload,much worse than draw time,165,G
+Steady Hands,PvP,Weapon kill,"100 handling, 0.825x handling duration on all weapons for 8.5s",1s duration,PvP,166,H
+Killing Wind,PvP,Weapon kill,"20 range, 50 mobility, 40 handling for 5s",0.5s duration,PvP,167,H
+Shot Swap,PvP,"Weapon kill (2 each, 8 stacks)","100 ready/stow handling, ?x ready/stow duration, stack consumed on ready/stow",?,PvP,168,H
+Dynamic Sway Reduction,PvP,Holding down trigger,Scaling accuracy and stability,Faster scaling,PvP,169,H
+Zen Moment,PvP,Weapon hit (5 stacks),"-?% recoil, ?% flinch resistance per stack for 1s",5 stability,PvP,170,H
+Well-Rounded,PvP,Grenade or powered melee (2 stacks),"10-20 range, stability, handling for 15s",? stats,much better alternatives,171,H
+Underdog,reload,Critical health,"Scales up to 100 reload, 0.9x reload duration",N/A,removed from game,172,H
+Headseeker,PvP,Dealing body damage,Precision multiplier up by 0.1175 for 0.55s,5 stability,PvP,173,H
+Gutshot Straight,PvP,ADS,"10-20% body damage, -20% ADS auto aim cone",-15% auto aim cone,PvP,174,H
+Threat Remover,PvP,12 pellets of shotgun hit,"? stability, ? handling, ? reload for ?s",10 pellets,stats useless after shot,175,H
+Firmly Planted,PvP,Crouching,"30 handling, -80% horizontal recoil",5 handling,PvP,176,H
+Fragile Focus,PvP,"Shields active
+Reactivates 1s after above critical",20 range,0.5s faster recovery,PvP,177,H
+Iron Reach,PvP,Passive,"20 range, -20 stabililty",5 stability,PvP,178,H
+Tilting at Windmills,utility,Blocking damage,-20% block movement penalty for ?s,?s duration,does effectively nothing,179,H
+No Distractions,PvP,ADS for 1s,35% flinch resist,ADS for 0.9s,PvP,180,H
+Air Assault,PvP,"Passive
+Weapon kill","10 AE
+30 AE for 5s",2 AE,PvP,181,H
+To The Pain,PvP,"30 damage taken (10 stacks, removed on stow)",? handling and 2 aim assist per stack,"? handling
+? aim assist",PvP,182,H
+Perfect Float,PvP,Damage dealt/received every 3s for 6s,"30 AE, 35% flinch resist for 10s","Damage every 3.5s
+2s duration",PvP,183,H
+Barrel Constrictor,PvP,Weapon kill,20% tighter pellet spread for 7.5s,"5% tighter spread, 1s duration",PvP,184,H
+Moving Target,PvP,ADS,"10 aim assist, 2.5% lower ADS move speed penalty",1? aim assist,PvP,185,H
+Iron Gaze,PvP,Passive,"20 aim assist, -20 range",5 range,PvP,186,H
+Tunnel Vision,PvP,Kill-reload within 3.6s,"20 aim assist, -?% cone, ? handling for 5s",?s duration,PvP,187,H
+Closing Time,PvP,50-0% mag,"10-20 range, 10-20 handling, -5-10% cone",? more stats,PvP,188,H
+Hip-Fire Grip,PvP,Hipfire,"1.2x aim assist falloff, 15 aim assist, -30% accuracy cone, 25 stability",Stronger effect,PvP,189,H
+Encore,PvP,"Weapon kills (4 stacks, 2 for precision)","Up to 20 range, 32 stability, and -5% cone for 7s",0.5s duration,PvP,190,H
+Heating Up,PvP,Weapon kill (2 stacks),"Scales up to -25% cone, 30 stability, 40 recoil for 5.5s",1s duration,PvP,191,H
+Offhand Strike,PvP,Weapon kill,"1.45x falloff, 30 stability, -95% cone for 7s if hipfire",1s duration,PvP,192,H
+Under Pressure,PvP,<50% mag down to 0,"Scales up to -25% cone, 30 stability","-30% cone, ? stability",PvP,193,H
+Rangefinder,PvP,ADS,"10% zoom, 5% projectile speed",5 handling,PvP,194,H
+Opening Shot,PvP,"First shot, 3.1s ICD","25 range, 20 aim assist, -5% cone","5 aim assist, 5 range",PvP,195,H
+Eye of the Storm,PvP,156 down to critical health,"Scales up to 30 handling, -40% cone",5 stability,PvP,196,H
+Invisible Hand,PvP,"Missing multiple times within 2.5s
+Removed 1s after hitting",25 stability for 2.5s,?s post-hit duration,PvP,197,H
+Iron Grip,PvP,Passive,"20 stability, -20 reload",5 reload,literally lowers reload,198,H

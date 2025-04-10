@@ -1,0 +1,287 @@
+Weapon,Name,Affinity,Frame,Enhance,Reserves,Column 1,Column 2,Origin Trait,Rank,Tier
+LFR,Ideal,Solar,Adaptive Burst,Yes,29,Rewind Rounds,Chaos Reshaped,Nanotech Tracer Rockets,0,/
+LFR,Scintillation,Strand,Adaptive Burst,Yes,29,"Rewind Rounds
+Cornered","Bait and Switch
+Surrounded",Veist Stinger,1,S
+LFR,Mistral Lift,Void,Adaptive Burst,Yes,26,"Envious Arsenal
+Envious Assassin",Bait and Switch,Veist Stinger,2,S
+LFR,Doomed Petitioner,Void,Adaptive Burst,Yes,25,"Envious Assassin
+Reconstruction","Surrounded
+Precision Instrument",Dragon's Vengeance,3,A
+LFR,Cataclysmic,Solar,Precision,Yes,27,Fourth Time's the Charm,Bait and Switch,Souldrinker,4,A
+LFR,Briar's Contempt,Solar,Adaptive Burst,Yes,27,Rewind Rounds,"Surrounded
+Focused Fury",Harmonic Resonance,5,A
+LFR,Stormchaser,Arc,Adaptive Burst,No,26,"Clown Cartridge
+Auto-Loading Holster","Firing Line
+Frenzy",Bitterspite,6,B
+LFR,Line in the Sand,Arc,Precision,Yes,27,"Clown Cartridge
+Deconstruct",Bait and Switch,Cast No Shadows,7,B
+LFR,Suspectum-4fr,Stasis,Precision,Yes,27,Envious Assassin,"Precision Instrument
+Firing Line",Veist Stinger,8,C
+LFR,Eyes Unveiled,Void,Precision,Yes,28,"Subsistence
+Triple Tap","Discord
+Reservoir Burst",Willing Vessel,9,C
+LFR,Reed's Regret,Stasis,Precision,No,27,Triple Tap,Firing Line,Veist Stinger,10,C
+LFR,Taipan-4fr,Void,Precision,Yes,29,Triple Tap,Firing Line,Veist Stinger,11,C
+LFR,Fire and Forget,Stasis,Adaptive Burst,Yes,26,Field Prep,Frenzy,Veist Stinger,12,C
+LFR,Sailspy Pitchglass,Arc,Precision,Yes,27,Clown Cartridge,"Focused Fury
+Frenzy",Right Hook,13,D
+LFR,Laser Painter,Strand,Precision,No,26,"Clown Cartridge
+Auto-Loading Holster",Focused Fury,Veist Stinger,14,D
+LFR,Threaded Needle,Void,Precision,No,27,Clown Cartridge,Frenzy,,15,D
+LFR,Tarantula,Arc,Precision,No,27,Field Prep,Box Breathing,,16,E
+LFR,Corsair's Wrath,Solar,Precision,No,26,Moving Target,High-Impact Reserves,,17,E
+LMG,Ideal,Void,High-Impact,Yes,498,"Demolitionist
+Repulsor Brace
+Dragonfly",Destabilizing Rounds,Dark Ether Reaper,0,/
+LMG,Commemoration,Void,Adaptive,Yes,498,"Reconstruction
+Dragonfly
+Subsistence","Killing Tally
+Repulsor Brace",Bray Inheritance,1,S
+LMG,Song of Ir Yut,Arc,Adaptive,Yes,496,"Demolitionist
+Reconstruction","Sword Logic
+Bait and Switch
+Cascade Point",Cursed Thrall,2,S
+LMG,Corrective Measure,Void,Aggressive,Yes,603,"Destabilizing Rounds
+Firefly
+Demolitionist","One for All
+Demoralize
+Killing Tally",Timelost Magazine,3,S
+LMG,Pro Memoria,Strand,Aggressive,Yes,590,"Demolitionist
+Reconstruction
+Hatchling","Desperate Measures
+Bait and Switch
+Dragonfly",Dealer's Choice,4,S
+LMG,"Hammerhead
+BRAVE version",Void,Adaptive,Yes,475,"Destabilizing Rounds
+Rewind Rounds
+Fourth Time's the Charm","Killing Tally
+Desperate Measures
+Onslaught",Indomitability,5,S
+LMG,Watchful Eye,Arc,Aggressive,Yes,566,"Overflow
+Field Prep","Jolting Feedback
+Killing Tally
+Rolling Storm",Runneth Over,6,S
+LMG,Avalanche,Solar,Adaptive,Yes,477,"Auto-Loading Holster
+Subsistence
+Dragonfly","Incandescent
+Cascade Point",Dawning Surprise,7,A
+LMG,Archon's Thunder,Stasis,High-Impact,Yes,481,"Air Trigger
+Rimestealer
+Fourth Time's the Charm","Headstone
+Desperate Measures
+Killing Tally",Skulking Wolf,8,A
+LMG,Speleologist,Solar,Rapid,Yes,690,"Envious Assassin
+Heal Clip
+Deconstruct","Incandescent
+Killing Tally
+One For All",Radiolaria Transposer,9,A
+LMG,Unwavering Duty,Solar,Adaptive,No,499,"Auto-Loading Holster
+Subsistence
+Field Prep","Incandescent
+Killing Tally
+Cascade Point",Alacrity,10,A
+LMG,Qua Xaphan V,Void,High-Impact,Yes,483,"Field Prep
+Triple Tap
+Slideways","Destabilizing Rounds
+Adrenaline Junkie
+Dragonfly",Wild Card,11,A
+LMG,Marcato-45,Strand,Adaptive,Yes,500,Demolitionist,"Onslaught
+Golden Tricorn
+Hatchling",Suros Synergy,12,A
+LMG,Recurrent Impact,Stasis,Rapid,Yes,742,"Subsistence
+Field Prep","One for All
+Headstone",Land Tank,13,B
+LMG,Chain of Command,Stasis,Adaptive,No,499,Adrenaline Junkie,Demolitionist,Gun and Run,14,B
+LMG,Qua Furor V,Stasis,Aggressive,Yes,571,"Feeding Frenzy
+Rimestealer","Dragonfly
+Golden Tricorn
+One for All",Wild Card,15,B
+LMG,Terminus Horizon,Arc,High-Impact,No,495,"Demolitionist
+Dragonfly","Adrenaline Junkie
+Cascade Point",Tex Balanced Stock,16,B
+LMG,A Fine Memorial,Arc,Adaptive,No,490,"Subsistence
+Field Prep","Demolitionist
+Adrenaline Junkie
+One for All",,17,B
+LMG,Fixed Odds,Solar,High-Impact,Yes,467,Field Prep,"Incandescent
+Killing Tally",To Excess,18,B
+LMG,Shattered Cipher,Void,Rapid,No,723,"Auto-Loading Holster
+Field Prep","Adrenaline Junkie
+Surrounded",,19,C
+LMG,Retrofit Escapade,Void,Rapid,Yes,694,"Fourth Time's the Charm
+Field Prep","One for All
+Golden Tricorn",Ambush,20,C
+LMG,Planck's Stride,Arc,Rapid,Yes,715,Grave Robber,"Swashbuckler
+Pugilist",Right Hook,21,C
+LMG,Qullim's Terminus,Stasis,High-Impact,Yes,492,"Ensemble
+Unrelenting","Firefly
+Headstone
+Killing Tally",Runneth Over,22,D
+LMG,Circular Logic,Strand,Adaptive,No,496,Envious Assassin,"Golden Tricorn
+Demolitionist",Nanotech Tracer Rockets,23,D
+LMG,Seventh Seraph SAW,Arc,High-Impact,No,478,"Auto-Loading Holster
+Field Prep",Firing Line,,24,E
+LMG,Thermal Erosion,Solar,Rapid,No,701,Field Prep,"Demolitionist
+Dragonfly",,25,E
+LMG,THE SWARM,Arc,High-Impact,No,498,Feeding Frenzy,"Dragonfly
+Golden Tricorn",Vanguard's Vindication,26,F
+LMG,Eleatic Principle,Arc,Rapid,Yes,740,Ensemble,"Golden Tricorn
+Target Lock",Head Rush,27,F
+Rocket,Ideal,Solar,Aggressive,Yes,11,"Envious Arsenal
+Air Trigger","Bait and Switch
+Chaos Reshaped
+Bipod",Nanotech Tracer Rockets,0,/
+Rocket,Hezen Vengeance,Solar,Aggressive,Yes,11,"Envious Arsenal
+Cluster Bomb
+Overflow","Bait and Switch
+Elemental Honing
+Bipod",Timelost Magazine,1,S
+Rocket,Cynosure,Strand,Adaptive,Yes,10,"Envious Arsenal
+Clown Cartridge
+Field Prep","Elemental Honing
+Explosive Light
+Bipod",Vanguard's Vindication,2,S
+Rocket,Tomorrow's Answer,Void,High-Impact,Yes,12,"Envious Arsenal
+Air Trigger
+Withering Gaze","Bait and Switch
+Explosive Light
+Bipod",Wild Card,3,A
+Rocket,Apex Predator,Solar,Adaptive,Yes,10,"Reconstruction
+Slideways
+Demolitionist","Bait and Switch
+Surrounded
+Bipod",Explosive Pact,4,A
+Rocket,Crux Termination IV,Arc,Aggressive,Yes,11,"Reconstruction
+Clown Cartridge
+Slideshot","Bipod
+Explosive Light
+Surrounded",Wild Card,5,A
+Rocket,Cold Comfort,Stasis,Aggressive,No,11,Envious Assassin,"Bait and Switch
+Bipod",Restoration Ritual,6,A
+Rocket,Heretic's Fervor,Stasis,Aggressive,Yes,10,"Field Prep
+Slideshot
+Auto-Loading Holster","Bipod
+Explosive Light",Dark Ether Reaper,7,B
+Rocket,Braytech Osprey,Void,High-Impact,No,12,"Cluster Bomb
+Envious Assassin
+Field Prep","Bipod
+Frenzy",Vanguard's Vindication,8,B
+Rocket,The Hothead,Arc,Adaptive,No,10,"Demolitionist
+Field Prep
+Auto-Loading Holster","Clown Cartridge
+Explosive Light",Vanguard's Vindication,9,B
+Rocket,Faith-Keeper,Void,Precision,Yes,12,"Clown Cartridge
+Auto-Loading Holster
+Field Prep","Bipod
+Explosive Light",Radiolaria Transposer,10,B
+Rocket,Crowning Duologue,Strand,Precision,Yes,13,"Reconstruction
+Air Trigger
+Demolitionist","Bipod
+Deconstruct",Dream Work,11,B
+Rocket,Sleepless,Arc,High-Impact,No,12,"Field Prep
+Auto-Loading Holster",Bipod,Advanced Reflexes,12,B
+Rocket,Semiotician,Strand,High-Impact,Yes,12,Field Prep,"Bipod
+Explosive Light",Head Rush,13,B
+Rocket,Blowout,Arc,Adaptive,Yes,10,"Field Prep
+Demolitionist","Explosive Light
+Frenzy",One Quiet Moment,14,B
+Rocket,Code Duello,Solar,High-Impact,No,13,"Auto-Loading Holster
+Field Prep",Frenzy,,15,C
+Rocket,Roar of the Bear,Solar,High-Impact,No,12,"Field Prep
+Demolitionist","Lasting Impression
+Cluster Bomb",Skulking Wolf,16,C
+Rocket,Bump in the Night,Stasis,Aggressive,Yes,10,"Demolitionist
+Auto-Loading Holster
+Field Prep","Frenzy
+Chill Clip",Extrovert,17,C
+Rocket,Red Herring,Void,Adaptive,Yes,10,Field Prep,"Golden Tricorn
+Frenzy",Psychohack,18,C
+Rocket,Hoosegow,Arc,Adaptive,No,10,"Field Prep
+Auto-Loading Holster","Cluster Bomb
+Demolitionist",,19,C
+Rocket,Bad Omens,Void,Aggressive,No,10,"Auto-Loading Holster
+Field Prep",Cluster Bomb,,20,C
+Rocket,Palmyra-B,Stasis,Precision,Yes,13,Auto-Loading Holster,Explosive Light,Hakke Breach Armaments,21,D
+Rocket,Heretic,Arc,Aggressive,No,10,Field Prep,"Lasting Impression
+Cluster Bomb",,22,D
+Rocket,Shining Sphere,Arc,Adaptive,No,12,"Field Prep
+Auto-Loading Holster",Demolitionist,,23,D
+Rocket,Royal Entry,Void,Precision,No,13,"Field Prep
+Auto-Loading Holster","Clown Cartridge
+Lasting Impression",Vanguard's Vindication,24,E
+Rocket,Ascendancy,Solar,Precision,No,12,"Impulse Amplifier
+Ambitious Assassin",Explosive Light,,25,E
+Rocket,Subzero Salvo,Arc,Precision,No,12,Ambitious Assassin,"Cluster Bomb
+Demolitionist",,26,E
+Sword,Ideal,Solar,Wave,Yes,77,"Relentless Strikes
+Frenzy
+Attrition Orbs","Surrounded
+Whirlwind Blade
+Chaos Reshaped",Bray Legacy,0,/
+Sword,"Falling Guillotine
+BRAVE version",Void,Vortex,Yes,75,"Chain Reaction
+Frenzy","Eager Edge
+Bait and Switch
+Surrounded",Indomitability,1,S
+Sword,Summum Bonum,Arc,Wave,Yes,76,"Relentless Strikes
+Attrition Orbs
+Deconstruct","Chaos Reshaped
+Whirlwind Blade
+Surrounded",Collective Purpose,2,S
+Sword,The Other Half,Void,Adaptive,Yes,77,"Eager Edge
+Relentless Strikes","Surrounded
+Frenzy
+Whirlwind Blade",Hot Swap,3,S
+Sword,The Slammer,Stasis,Vortex,Yes,77,Eager Edge,"Cold Steel
+Demolitionist",Stunning Recovery,4,S
+Sword,Bequest,Arc,Adaptive,Yes,76,Relentless Strikes,"Surrounded
+Vorpal Weapon",Bray Inheritance,5,S
+Sword,Abyssal Edge,Strand,Wave,Yes,77,Relentless Strikes,"Elemental Honing
+Surrounded
+Redirection",Willing Vessel,6,A
+Sword,Ill Omen,Stasis,Caster,Yes,76,"Relentless Strikes
+Attrition Orbs","Whirlwind Blade
+Surrounded",Radiolaria Transposer,7,A
+Sword,Zephyr,Stasis,Adaptive,Yes,76,"Relentless Strikes
+Attrition Orbs
+Rimestealer","Surrounded
+Whirlwind Blade
+Cold Steel",Dawning Surprise,8,A
+Sword,Geodetic HSm,Void,Adaptive,Yes,76,Relentless Strikes,Whirlwind Blade,Nadir Focus,9,A
+Sword,Double-Edged Answer,Void,Adaptive,Yes,74,Relentless Strikes,"Surrounded
+Whirlwind Blade",Nadir Focus,10,B
+Sword,Nasreddin,Arc,Adaptive,No,76,Relentless Strikes,"Surrounded
+Whirlwind Blade",Field-Tested,11,B
+Sword,Negative Space,Solar,Adaptive,No,76,Relentless Strikes,"Surrounded
+Whirlwind Blade",,12,B
+Sword,Night Terror,Arc,Adaptive,No,75,Relentless Strikes,"Surrounded
+Whirlwind Blade",,13,B
+Sword,False Idols,Solar,Vortex,Yes,75,"Relentless Strikes
+Attrition Orbs","Bait and Switch
+Surrounded",Dealer's Choice,14,B
+Sword,Goldtusk,Arc,Lightweight,Yes,90,Relentless Strikes,Whirlwind Blade,Veist Stinger,15,B
+Sword,Just In Case,Solar,Adaptive,No,77,Relentless Strikes,Whirlwind Blade,Disaster Plan,16,C
+Sword,Abide the Return,Solar,Adaptive,No,76,Relentless Strikes,Whirlwind Blade,,17,C
+Sword,Steel Sybil Z-14,Void,Adaptive,No,75,Relentless Strikes,Whirlwind Blade,,18,C
+Sword,Death's Razor,Void,Vortex,Yes,77,Relentless Strikes,"Surrounded
+Whirlwind Blade",To Excess,19,C
+Sword,Falling Guillotine,Void,Vortex,No,75,Relentless Strikes,"Surrounded
+Whirlwind Blade",,20,C
+Sword,Half-Truths,Arc,Adaptive,Yes,77,Relentless Strikes,Eager Edge,Hot Swap,21,D
+Sword,Caretaker,Solar,Adaptive,Yes,76,Relentless Strikes,Surrounded,Noble Deeds,22,D
+Sword,Honor's Edge,Arc,Adaptive,No,77,Relentless Strikes,Surrounded,,23,D
+Sword,Eternity's Edge,Solar,Vortex,No,77,Relentless Strikes,Surrounded,,24,D
+Sword,Crown-Splitter,Void,Aggressive,No,65,Relentless Strikes,"Surrounded
+Whirlwind Blade",,25,D
+Sword,Throne-Cleaver,Solar,Aggressive,Yes,65,Duelist's Trance,Surrounded,To Excess,26,D
+Sword,Dragoncult Sickle,Strand,Caster,No,76,Duelist's Trance,"Surrounded
+Whirlwind Blade",Sundering,27,E
+Sword,Sola's Scar,Solar,Caster,No,75,Relentless Strikes,Frenzy,,28,E
+Sword,Quickfang,Void,Lightweight,No,90,Relentless Strikes,En Garde,,29,E
+Sword,Razor's Edge,Void,Vortex,No,75,Relentless Strikes,Frenzy,Skulking Wolf,30,E
+Sword,Hero of Ages,Arc,Vortex,No,75,Relentless Strikes,En Garde,,31,E
+Sword,Chivalric Fire,Void,Caster,No,76,Repulsor Brace,Destabilizing Rounds,One Quiet Moment,32,F
+Sword,Temptation's Hook,Arc,Caster,Yes,?,"Relentless Strikes
+Attrition Orbs",Whirlwind Blade,Paracausal Fluid,33,F
+Sword,Thin Precipice,Strand,Vortex,Yes,71,Relentless Strikes,Golden Tricorn,Unsated Hunger,34,F

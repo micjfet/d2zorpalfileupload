@@ -1,0 +1,711 @@
+Weapon,Name,Affinity,Frame,Enhance,Column 1,Column 2,Origin Trait,Rank,Tier
+Auto,No Hesitation,Solar,Support,Yes,"Physic
+Demolitionist","Incandescent
+Attrition Orbs
+Circle of Life",Dealer's Choice,1,S
+Auto,Adamantite,Strand,Support,Yes,"Reciprocity
+Slice
+Demolitionist","Attrition Orbs
+Tear
+Frenzy",Runneth Over,2,A
+Auto,Reckless Oracle,Void,Rapid,Yes,"Destabilizing Rounds
+Demolitionist","Repulsor Brace
+One for All",Photoinhibition,3,A
+Auto,Abyss Defiant,Solar,High-Impact,Yes,"Heal Clip
+Enlightened Action",Incandescent,Cursed Thrall,4,A
+Auto,The Summoner,Solar,Adaptive,Yes,Heal Clip,"Incandescent
+Onslaught",Wild Card,5,A
+Auto,The Riposte,Void,Lightweight,Yes,"Repulsor Brace
+Enlightened Action",Destabilizing Rounds,,6,A
+Auto,VS Pyroelectric Propellant,Arc,Adaptive,Yes,"Attrition Orbs
+Eddy Current",Jolting Feedback,Bray Legacy,7,A
+Auto,Age-Old Bond,Void,High-Impact,Yes,"Repulsor Brace
+Dragonfly",Destabilizing Rounds,Explosive Pact,8,A
+Auto,Positive Outlook,Void,Precision,Yes,Stats for All,"Destabilizing Rounds
+Dragonfly
+Repulsor Brace",Omolon Fluid Dynamics,9,B
+Auto,Origin Story,Kinetic,Precision,Yes,"Attrition Orbs
+Demolitionist","Kinetic Tremors
+Onslaught",Vanguard's Vindication,10,B
+Auto,Breakneck,Kinetic,Precision,Yes,"Enlightened Action
+Shoot to Loot
+Pugilist","Kinetic Tremors
+Onslaught
+Attrition Orbs",Gun and Run,11,B
+Auto,Braytech Werewolf,Kinetic,Precision,Yes,"Rewind Rounds
+Pugilist","Kinetic Tremors
+Onslaught",Search Party,12,B
+Auto,Prosecutor,Arc,Precision,Yes,"Dragonfly
+Rewind Rounds","Voltshot
+Frenzy",Crossing Over,13,B
+Auto,Shadow Price,Arc,Precision,Yes,"Attrition Orbs
+Stats for All","Voltshot
+One for All",Stunning Recovery,14,B
+Auto,Veiled Threat,Stasis,Rapid,Yes,"Attrition Orbs
+Shoot to Loot","Headstone
+Desperate Measures",Radiolaria Transposer,15,B
+Auto,Chroma Rush,Kinetic,Rapid,Yes,Subsistence,"Kinetic Tremors
+Frenzy",Splicer Surge,16,C
+Auto,Ammit AR2,Solar,Precision,Yes,"Stats for All
+Turnabout","Incandescent
+One for All
+Adaptive Munitions",Omolon Fluid Dynamics,17,C
+Auto,Krait,Stasis,Rapid,No,"Stats for All
+Auto-Loading Holster
+Subsistence","Headstone
+One for All",Veist Stinger,18,C
+Auto,Fair Judgment,Stasis,Precision,Yes,Rimestealer,"Headstone
+Onslaught",Vanguard's Vindication,19,C
+Auto,Horror Story,Stasis,Precision,No,"Enlightened Action
+Demolitionist
+Under-Over","Headstone
+Frenzy",Nadir Focus,20,C
+Auto,False Promises,Stasis,High-Impact,Yes,Enlightened Action,Headstone,Paracausal Fluid,21,C
+Auto,Herod-C,Stasis,High-Impact,No,"Shoot to Loot
+Stats for All
+Auto-Loading Holster","Headstone
+One for All
+Frenzy",Hakke Breach Armaments,22,C
+Auto,Tigerspite,Kinetic,Precision,No,Subsistence,"Kinetic Tremors
+Frenzy
+Attrition Orbs",Advanced Reflexes,23,C
+Auto,Dark Decider,Arc,Rapid,No,"Auto-Loading Holster
+Subsistence","Voltshot
+Dragonfly",Veist Stinger,24,C
+Auto,Ros Arago IV,Void,Adaptive,Yes,"Repulsor Brace
+Rewind Rounds","Onslaught
+Attrition Orbs",Wild Card,25,C
+Auto,Coronach-22,Solar,Adaptive,No,Feeding Frenzy,Incandescent,Suros Synergy,26,C
+Auto,Rufus's Fury,Strand,Rapid,Yes,"Rewind Rounds
+Demolitionist","Frenzy
+Hatchling",Harmonic Resonance,27,D
+Auto,Come to Pass,Arc,High-Impact,Yes,"Shoot to Loot
+Stats for All
+Genesis","Dragonfly
+One for All
+Adaptive Munitions",Psychohack,28,D
+Auto,Lethal Abundance,Strand,High-Impact,Yes,"Enlightened Action
+Slice","Onslaught
+Hatchling
+Attrition Orbs",Skulking Wolf,29,D
+Auto,Old Sterling,Strand,Adaptive,Yes,Rewind Rounds,"Frenzy
+Hatchling",Field-Tested,30,D
+Auto,The Last Breath,Kinetic,Adaptive,No,"Demolitionist
+Subsistence","Frenzy
+One for All",,31,D
+Auto,Sweet Sorrow,Arc,Rapid,Yes,"Stats for All
+Auto-Loading Holster",One for All,Land Tank,32,D
+Auto,Arctic Haze,Solar,Rapid,No,"Outlaw
+Subsistence",Dragonfly,,33,E
+Auto,Perpetualis,Strand,Adaptive,Yes,Keep Away,"Hatchling
+Golden Tricorn",Noble Deeds,34,E
+Auto,Chrysura Melo,Solar,High-Impact,No,"Ensemble
+Outlaw","Dragonfly
+Frenzy",,35,E
+Auto,The Forward Path,Kinetic,Adaptive,No,"Grave Robber
+Feeding Frenzy",Swashbuckler,,36,E
+Auto,Seventh Seraph Carbine,Kinetic,Precision,No,"Reconstruction
+Pugilist","Frenzy
+Swashbuckler",Rasputin's Arsenal,37,E
+Auto,Duty Bound,Kinetic,Adaptive,No,"Stats for All
+Compulsive Reloader","One for All
+Frenzy",Stunning Recovery,38,E
+Auto,Sorrow's Verse,Arc,Adaptive,No,"Feeding Frenzy
+Subsistence","Frenzy
+One for All",Suros Synergy,39,E
+Auto,Arc Logic,Arc,Adaptive,No,"Feeding Frenzy
+Subsistence","Frenzy
+Surrounded",,40,E
+Auto,Lodbrok-C,Kinetic,High-Impact,No,Demolitionist,"Kill Clip
+Adrenaline Junkie",Hakke Breach Armaments,41,F
+Auto,Gnawing Hunger,Void,Adaptive,No,"Auto-Loading Holster
+Subsistence
+Field Prep","Swashbuckler
+Kill Clip",,42,F
+Auto,Firefright,Kinetic,Precision,Yes,Threat Detector,Surrounded,Extrovert,43,F
+Auto,The Number,Arc,Precision,No,"Field Prep
+Surplus",One for All,,44,F
+Auto,Scathelocke,Kinetic,Adaptive,No,Subsistence,Adrenaline Junkie,,45,F
+Bow,Non-Denouement,Arc,Precision,Yes,"Dragonfly
+Archer's Tempo
+Shoot to Loot","Voltshot
+Explosive Head
+Chaos Reshaped",Collective Purpose,1,S
+Bow,Accrued Redemption,Kinetic,Precision,Yes,Archer's Tempo,"Kinetic Tremors
+Firefly",Photoinhibition,2,A
+Bow,Anamnesis,Void,Lightweight,Yes,"Repulsor Brace
+Dragonfly
+Archer's Tempo","Destabilizing Rounds
+Demoralize
+Explosive Head",Runneth Over,3,A
+Bow,Tyranny of Heaven,Solar,Lightweight,Yes,"Dragonfly
+Explosive Head
+Archer's Tempo","Incandescent
+One for All",Explosive Pact,4,A
+Bow,Fortunate Star,Void,Lightweight,Yes,"Repulsor Brace
+Archer's Tempo",Destabilizing Rounds,Veist Stinger,5,A
+Bow,Pre Astyanax IV,Solar,Precision,Yes,"Archer's Tempo
+Shoot to Loot
+Attrition Orbs","Incandescent
+Explosive Head",Wild Card,6,B
+Bow,Strident Whistle,Solar,Precision,No,"Archer's Tempo
+Shoot to Loot","Incandescent
+Explosive Head
+Dragonfly",Vanguard's Vindication,7,B
+Bow,Hush,Solar,Precision,Yes,"Archer's Tempo
+Shoot to Loot","Incandescent
+Explosive Head",Gun and Run,8,B
+Bow,Tripwire Canary,Arc,Lightweight,Yes,"Dragonfly
+Archer's Tempo",Explosive Head,Ambush,9,B
+Bow,Arsenic Bite-4B,Arc,Lightweight,No,Dragonfly,Explosive Head,,10,B
+Bow,Under Your Skin,Void,Precision,Yes,Archer's Tempo,"Explosive Head
+Dragonfly",Land Tank,11,C
+Bow,Raconteur,Stasis,Precision,Yes,"Archer's Tempo
+Shoot to Loot","Headstone
+Explosive Head",Noble Deeds,12,C
+Bow,Vengeful Whisper,Strand,Precision,No,"Explosive Head
+Archer's Tempo
+Slice",Hatchling,Sundering,13,C
+Bow,Point of the Stag,Arc,Precision,Yes,Archer's Tempo,Dragonfly,Wild Card,14,C
+Bow,Wolftone Draw,Arc,Precision,No,"Archer's Tempo
+Shoot to Loot","Dragonfly
+Frenzy",,15,C
+Bow,Fel Taradiddle,Kinetic,Lightweight,Yes,"Archer's Tempo
+Shoot to Loot",Explosive Head,Psychohack,16,C
+Bow,Imperial Needle,Void,Lightweight,No,Archer's Tempo,Frenzy,,17,D
+Bow,Lethophobia,Void,Lightweight,Yes,"Repulsor Brace
+Impulse Amplifier",Explosive Head,Dragon's Vengeance,18,D
+Bow,Lunulata-4B,Stasis,Lightweight,No,Shoot to Loot,Headstone,Veist Stinger,19,D
+Bow,Biting Winds,Kinetic,Precision,No,Rapid Hit,Explosive Head,,20,D
+Bow,Whispering Slab,Kinetic,Lightweight,Yes,"Archer's Tempo
+Demolitionist
+Pugilist","High Ground
+Swashbuckler
+Vorpal Weapon",Paracausal Fluid,21,E
+Bow,Whistler's Whim,Kinetic,Lightweight,No,"Rapid Hit
+Cornered","Archer's Tempo
+Kill Clip",Veist Stinger,22,E
+Bow,Neoptolemus II,Kinetic,Precision,Yes,Pugilist,Vorpal Weapon,Wild Card,23,E
+HC,Word of Crota,Void,Precision,Yes,"Repulsor Brace
+Enlightened Action
+Dragonfly",Destabilizing Rounds,Cursed Thrall,1,S
+HC,Posterity,Arc,Precision,Yes,Voltshot,"Frenzy
+Redirection",Bray Inheritance,2,S
+HC,Sightline Survey,Arc,Precision,Yes,Enlightened Action,Voltshot,Radiolaria Transposer,3,S
+HC,Maahes HC4,Void,Heavy Burst,Yes,"Repulsor Brace
+Enlightened Action","Destabilizing Rounds
+Dragonfly",Omolon Fluid Dynamics,4,A
+HC,Exalted Truth,Void,Adaptive,Yes,Destabilizing Rounds,"Repulsor Brace
+One for All
+Demoralize",One Quiet Moment,5,A
+HC,Unloved,Strand,Heavy Burst,Yes,"Rapid Hit
+Dragonfly","Elemental Honing
+Frenzy",Subjugation,6,A
+HC,Ancient Gospel,Void,Adaptive,Yes,Destabilizing Rounds,Explosive Payload,Photoinhibition,7,A
+HC,Zaouli's Bane,Solar,Adaptive,Yes,Explosive Payload,"Incandescent
+One for All",Runneth Over,8,A
+HC,Midnight Coup,Kinetic,Adaptive,Yes,"Firefly
+Shoot to Loot
+Explosive Payload","Kinetic Tremors
+Frenzy
+One for All",Indomitability,9,A
+HC,Fatebringer,Kinetic,Adaptive,Yes,"Explosive Payload
+Kinetic Tremors","Firefly
+One for All
+Frenzy",Timelost Magazine,10,A
+HC,Luna's Howl,Solar,Precision,Yes,"Heal Clip
+Enlightened Action",Incandescent,Indomitability,11,B
+HC,Warden's Law,Kinetic,Heavy Burst,Yes,"Demolitionist
+Enlightened Action","Vorpal Weapon
+Frenzy",Stunning Recovery,12,B
+HC,Nation of Beasts,Arc,Adaptive,Yes,"Dragonfly
+Eddy Current","Voltshot
+Explosive Payload",Explosive Pact,13,B
+HC,Yesterday's Question,Arc,Heavy Burst,Yes,"Dragonfly
+Rapid Hit","Voltshot
+Vorpal Weapon",One Quiet Moment,14,B
+HC,Vulpecula,Stasis,Precision,No,Shoot to Loot,"Explosive Payload
+Headstone",,15,B
+HC,Epochal Integration,Solar,Adaptive,No,Stats for All,Incandescent,Nanotech Tracer Rockets,16,C
+HC,Trust,Solar,Precision,Yes,"Rapid Hit
+Stats for All","Incandescent
+Dragonfly
+Explosive Payload",Gun and Run,17,C
+HC,Waking Vigil,Arc,Adaptive,No,"Rapid Hit
+Shoot to Loot","Voltshot
+Dragonfly",Advanced Reflexes,18,C
+HC,Bold Endings,Stasis,Heavy Burst,Yes,Headstone,Dragonfly,Dealer's Choice,19,C
+HC,Exuviae,Stasis,Aggressive,Yes,"Stats for All
+Rimestealer","Headstone
+Explosive Payload",Dark Ether Reaper,20,C
+HC,The Palindrome,Arc,Adaptive,Yes,"Explosive Payload
+Recycled Energy","Rolling Storm
+Desperate Measures",Wild Card,21,C
+HC,Igneous Hammer,Solar,Aggressive,Yes,"Heal Clip
+Rapid Hit","Incandescent
+Frenzy",One Quiet Moment,22,D
+HC,Something New,Stasis,Aggressive,Yes,"Rapid Hit
+Demolitionist","Headstone
+Explosive Payload
+Frenzy",Dream Work,23,D
+HC,Judgment,Stasis,Adaptive,Yes,"Headstone
+Enlightened Action
+Demolitionist",Timed Payload,Crossing Over,24,D
+HC,Eyasluna,Stasis,Adaptive,No,"Rapid Hit
+Unrelenting",Headstone,,25,D
+HC,Better Devils,Strand,Adaptive,Yes,"Enlightened Action
+Demolitionist
+Slice","Explosive Payload
+Hatchling
+Frenzy",One Quiet Moment,26,D
+HC,Targeted Redaction,Void,Aggressive,Yes,Outlaw,"Destabilizing Rounds
+Explosive Payload",Unsated Hunger,27,D
+HC,Combined Action,Arc,Aggressive,Yes,Eddy Current,Voltshot,Field-Tested,28,D
+HC,Round Robin,Strand,Aggressive,Yes,"Keep Away
+Subsistence","Hatchling
+Golden Tricorn",Nanotech Tracer Rockets,29,D
+HC,Rose,Kinetic,Lightweight,Yes,Rapid Hit,Explosive Payload,,30,E
+HC,Cantata-57,Arc,Adaptive,No,Rapid Hit,Timed Payload,Suros Synergy,31,E
+HC,Optative,Void,Precision,Yes,"Repulsor Brace
+Demolitionist
+Attrition Orbs","Golden Tricorn
+Wellspring",Nano-Munitions,32,E
+HC,IKELOS_HC_V1.0.3,Void,Precision,Yes,Rapid Hit,"Repulsor Brace
+Golden Tricorn
+Frenzy",Rasputin's Arsenal,33,E
+HC,Austringer,Kinetic,Adaptive,Yes,"Compulsive Reloader
+Outlaw",Frenzy,To Excess,34,E
+HC,Malediction,Kinetic,Aggressive,No,Enlightened Action,Explosive Payload,Wild Card,35,E
+HC,Bottom Dollar,Void,Aggressive,No,Rapid Hit,"Dragonfly
+Explosive Payload",Gun and Run,36,E
+HC,Crimil's Dagger,Kinetic,Aggressive,Yes,Enlightened Action,Explosive Payload,Hakke Breach Armaments,37,E
+HC,True Prophecy,Kinetic,Aggressive,No,"Grave Robber
+Field Prep","Explosive Payload
+Timed Payload",,38,E
+HC,Annual Skate,Solar,Adaptive,No,Outlaw,"Dragonfly
+Timed Payload",,39,E
+HC,D.F.A.,Kinetic,Adaptive,No,Outlaw,Timed Payload,Stunning Recovery,40,E
+HC,Seventh Seraph Officer Revolver,Kinetic,Precision,No,"Reconstruction
+Fourth Time's the Charm","Vorpal Weapon
+Redirection",Rasputin's Arsenal,41,F
+HC,Frontier's Cry,Solar,Precision,No,"Rapid Hit
+Stats for All","One for All
+Kill Clip",Skulking Wolf,42,F
+HC,Survivor's Epitaph,Kinetic,Precision,No,Rapid Hit,"Frenzy
+One for All",One Quiet Moment,43,F
+HC,Loud Lullaby,Kinetic,Aggressive,No,Subsistence,"Frenzy
+Explosive Payload",,44,F
+HC,Spare Rations,Kinetic,Adaptive,No,Rapid Hit,"Kinetic Tremors
+Kill Clip",Disaster Plan,45,F
+HC,Nature of the Beast,Arc,Precision,No,Subsistence,Dragonfly,,46,F
+HC,Crisis Inverted,Arc,Adaptive,No,"Demolitionist
+Shoot to Loot
+Rapid Hit",One for All,Suros Synergy,47,F
+HC,Finite Impactor,Arc,Adaptive,No,Stats for All,One for All,Skulking Wolf,48,F
+HC,Pure Poetry,Kinetic,Aggressive,No,Shoot to Loot,Frenzy,Hakke Breach Armaments,49,F
+HC,Dire Promise,Kinetic,Adaptive,No,Auto-Loading Holster,Swashbuckler,,50,F
+HC,The Steady Hand,Kinetic,Aggressive,No,Outlaw,Swashbuckler,,51,F
+HC,Kept Confidence,Strand,Adaptive,Yes,Loose Change,Collective Action,Head Rush,52,F
+Pulse,Gridskipper,Void,Rapid,Yes,"Repulsor Brace
+Demolitionist",Destabilizing Rounds,Splicer Surge,1,S
+Pulse,Joxer's Longsword,Void,Heavy Burst,Yes,"Repulsor Brace
+Dragonfly
+Demolitionist","Destabilizing Rounds
+Demoralize",One Quiet Moment,2,S
+Pulse,Claws of the Wolf,Void,Rapid,Yes,Repulsor Brace,"Destabilizing Rounds
+Attrition Orbs",Skulking Wolf,3,S
+Pulse,Vantage Point,Arc,Adaptive,Yes,Eddy Current,Jolting Feedback,Dark Ether Reaper,4,S
+Pulse,Oversoul Edict,Arc,Rapid,Yes,"Eddy Current
+Demolitionist",Voltshot,Cursed Thrall,5,S
+Pulse,Nullify,Solar,Heavy Burst,Yes,"Firefly
+Heal Clip
+Demolitionist","Incandescent
+Chaos Reshaped
+Attrition Orbs",Collective Purpose,6,S
+Pulse,Elsie's Rifle,Void,High-Impact,Yes,"Repulsor Brace
+Rewind Rounds
+Loose Change","Destabilizing Rounds
+Frenzy",Indomitability,7,A
+Pulse,Corrasion,Arc,Heavy Burst,Yes,"Eddy Current
+Enlightened Action",Voltshot,Radiolaria Transposer,8,A
+Pulse,Jurassic Green,Solar,Rapid,Yes,"Heal Clip
+Loose Change",Incandescent,Field-Tested,9,A
+Pulse,Darkest Before,Solar,Rapid,Yes,"Heal Clip
+Attrition Orbs",Incandescent,Crossing Over,10,A
+Pulse,Adhortative,Solar,Adaptive,Yes,"Heal Clip
+Attrition Orbs
+Shoot to Loot",Incandescent,Nano-Munitions,11,A
+Pulse,Blast Furnace,Kinetic,Aggressive Burst,Yes,"Kinetic Tremors
+Shoot to Loot","Firefly
+One for All
+Frenzy",Indomitability,12,A
+Pulse,BxR-55 Battler,Solar,Legacy PR-55,Yes,"Demolitionist
+Auto-Loading Holster
+Pugilist","Incandescent
+Blunt Execution Rounds",Hot Swap,13,B
+Pulse,Chattering Bone,Kinetic,Lightweight,Yes,"Rapid Hit
+Kill Clip",Kinetic Tremors,Explosive Pact,14,B
+Pulse,Bygones,Kinetic,Adaptive,Yes,"Attrition Orbs
+Shoot to Loot
+Demolitionist","Kinetic Tremors
+Firefly",Gun and Run,15,B
+Pulse,Battle Scar,Kinetic,Lightweight,No,"Shoot to Loot
+Keep Away",Kinetic Tremors,Field-Tested,16,B
+Pulse,Sacred Provenance,Kinetic,Aggressive Burst,Yes,"Rapid Hit
+Demolitionist","Kinetic Tremors
+Frenzy",Photoinhibition,17,B
+Pulse,Jorum's Claw,Solar,Adaptive,No,Outlaw,Incandescent,Skulking Wolf,18,C
+Pulse,Phyllotactic Spiral,Arc,High-Impact,Yes,"Compulsive Reloader
+Keep Away",Voltshot,Nanotech Tracer Rockets,19,C
+Pulse,The Messenger,Kinetic,High-Impact,No,Rapid Hit,Kinetic Tremors,Wild Card,20,C
+Pulse,Stay Frosty,Stasis,Lightweight,Yes,"Rimestealer
+Enlightened Action",Headstone,Dawning Surprise,21,C
+Pulse,Redrix's Estoc,Stasis,Legacy PR-55,Yes,"Rimestealer
+Demolitionist",Headstone,,22,C
+Pulse,Disparity,Stasis,Aggressive Burst,Yes,Rapid Hit,Headstone,Hakke Breach Armaments,23,C
+Pulse,Psi Hermetic V,Stasis,High-Impact,Yes,Enlightened Action,"Headstone
+Golden Tricorn",Wild Card,24,D
+Pulse,Insidious,Arc,Aggressive Burst,Yes,Dragonfly,One for All,Souldrinker,25,D
+Pulse,Smite of Merain,Kinetic,Adaptive,Yes,"Demolitionist
+Stats for All",Firefly,Runneth Over,26,D
+Pulse,Aisha's Care,Strand,Heavy Burst,Yes,Slice,"Hatchling
+Golden Tricorn",Omolon Fluid Dynamics,27,D
+Pulse,Syncopation-53,Stasis,Adaptive,Yes,"Outlaw
+Compulsive Reloader",Headstone,Suros Synergy,28,D
+Pulse,New Purpose,Stasis,High-Impact,No,Feeding Frenzy,Headstone,Bitterspite,29,D
+Pulse,Relentless,Strand,High-Impact,Yes,"Rapid Hit
+Slice","Hatchling
+Frenzy",Crossing Over,30,E
+Pulse,Belisarius-D,Strand,Aggressive Burst,Yes,"Rapid Hit
+Slice",Hatchling,Hakke Breach Armaments,31,E
+Pulse,Different Times,Strand,Rapid,Yes,Outlaw,Hatchling,Unsated Hunger,32,E
+Pulse,Ogma PR6,Solar,Lightweight,No,Demolitionist,Dragonfly,Omolon Fluid Dynamics,33,E
+Pulse,Nightshade,Strand,Lightweight,No,Enlightened Action,Hatchling,Vanguard's Vindication,34,E
+Pulse,Outlast,Solar,Rapid,No,"Stats for All
+Outlaw",Dragonfly,Disaster Plan,35,E
+Pulse,Yesteryear,Void,Adaptive,No,"Outlaw
+Compulsive Reloader","Dragonfly
+Repulsor Brace",Gun and Run,36,E
+Pulse,Autumn Wind,Kinetic,Rapid,No,Demolitionist,Frenzy,One Quiet Moment,37,F
+Pulse,The Third Axiom,Arc,Adaptive,No,Feeding Frenzy,Dragonfly,,38,F
+Pulse,Veles-X,Void,Aggressive Burst,No,Repulsor Brace,"Golden Tricorn
+Kill Clip",Hakke Breach Armaments,39,F
+Pulse,Scalar Potential,Arc,Rapid,Yes,Enlightened Action,"Golden Tricorn
+Attrition Orbs",Dragon's Vengeance,40,F
+Pulse,Piece of Mind,Kinetic,Rapid,Yes,"Auto-Loading Holster
+Overflow",Vorpal Weapon,Land Tank,41,F
+Pulse,Cold Denial,Kinetic,High-Impact,Yes,Enlightened Action,"Desperado
+Swashbuckler",Paracausal Fluid,42,F
+Pulse,Stars in Shadow,Solar,High-Impact,No,"Feeding Frenzy
+Field Prep","Dragonfly
+Kill Clip",One Quiet Moment,43,F
+Pulse,Horror's Least,Arc,Rapid,No,Compulsive Reloader,Frenzy,Stunning Recovery,44,F
+Pulse,Last Perdition,Void,Adaptive,No,Outlaw,Kill Clip,,45,F
+Pulse,The Time-Worn Spire,Kinetic,Rapid,No,Feeding Frenzy,"Vorpal Weapon
+Rampage
+One for All",,46,F
+Pulse,Jian 7 Rifle,Arc,Adaptive,No,Grave Robber,"Dragonfly
+Swashbuckler",,47,F
+Pulse,Legal Action II,Kinetic,High-Impact,No,Feeding Frenzy,Frenzy,,48,F
+Pulse,Forge's Pledge,Solar,Adaptive,No,"Stats for All
+Auto-Loading Holster","One for All
+Multikill Clip",Skulking Wolf,49,F
+Pulse,Premonition,Void,High-Impact,No,Feeding Frenzy,Rampage,,50,F
+Pulse,Hailing Confusion,Kinetic,Adaptive,No,Outlaw,Demolitionist,,51,F
+Scout,Unworthy,Arc,Rapid,Yes,Firefly,Voltshot,Subjugation,1,S
+Scout,Trustee,Solar,Rapid,Yes,"Rapid Hit
+Reconstruction",Incandescent,Bray Inheritance,2,S
+Scout,Vouchsafe,Void,Lightweight,No,"Repulsor Brace
+Rapid Hit","Destabilizing Rounds
+Dragonfly
+Explosive Payload",Advanced Reflexes,3,S
+Scout,Hung Jury SR4,Kinetic,Precision,Yes,"Kinetic Tremors
+Shoot to Loot
+Enlightened Action","Firefly
+Explosive Payload
+One for All",Indomitability,4,A
+Scout,Vision of Confluence,Solar,Precision,Yes,"Incandescent
+Heal Clip
+Rewind Rounds","Firefly
+Explosive Payload
+Frenzy",Timelost Magazine,5,A
+Scout,Randy's Throwing Knife,Kinetic,Rapid,Yes,"Rapid Hit
+Discord",Kinetic Tremors,One Quiet Moment,6,A
+Scout,Patron of Lost Causes,Kinetic,Lightweight,Yes,"Rapid Hit
+Strategist","Kinetic Tremors
+Explosive Payload",Cast No Shadows,7,A
+Scout,Tarnished Mettle,Arc,Lightweight,Yes,"Rapid Hit
+Shoot to Loot
+Demolitionist","Voltshot
+Explosive Payload",Right Hook,8,A
+Scout,Doom of Chelchis,Void,Precision,Yes,"Firefly
+Explosive Payload","Frenzy
+One for All
+Dragonfly",Runneth Over,9,A
+Scout,Timeworn Wayfarer,Solar,Aggressive,Yes,"Heal Clip
+Shoot to Loot
+Dual Loader",Incandescent,Radiolaria Transposer,10,B
+Scout,Imperative,Kinetic,High-Impact,Yes,"Demolitionist
+Rapid Hit","Kinetic Tremors
+Explosive Payload",Nano-Munitions,11,B
+Scout,Brya's Love,Void,Precision,Yes,"Loose Change
+Shoot to Loot
+Rapid Hit","Destabilizing Rounds
+Explosive Payload",Head Rush,12,B
+Scout,Transfiguration,Kinetic,High-Impact,Yes,"Demolitionist
+Rapid Hit
+Rewind Rounds","Kinetic Tremors
+Explosive Payload",Explosive Pact,13,B
+Scout,Nameless Midnight,Kinetic,Precision,Yes,"Outlaw
+Keep Away","Kinetic Tremors
+Explosive Payload",Vanguard's Vindication,14,B
+Scout,Jararaca-3SR,Stasis,Rapid,No,Rapid Hit,Headstone,Veist Stinger,15,B
+Scout,Red Tape,Stasis,Lightweight,Yes,"Attrition Orbs
+Demolitionist
+Rimestealer","Headstone
+Explosive Payload",Dark Ether Reaper,16,B
+Scout,The Prophet,Stasis,Aggressive,Yes,"Demolitionist
+Rapid Hit","Headstone
+Explosive Payload",Tex Balanced Stock,17,B
+Scout,Perses-D,Stasis,High-Impact,No,"Rapid Hit
+Shoot to Loot","Headstone
+Explosive Payload",Hakke Breach Armaments,18,B
+Scout,Fang of Ir Yut,Strand,Rapid,Yes,"Rapid Hit
+Shoot to Loot
+Rewind Rounds",Hatchling,Cursed Thrall,19,C
+Scout,Staccato-46,Solar,Precision,No,"Outlaw
+Shoot to Loot","Incandescent
+Dragonfly
+Explosive Payload",Suros Synergy,20,C
+Scout,Live Fire,Stasis,Precision,Yes,"Rapid Hit
+Rimestealer","Headstone
+Shoot to Loot",Field-Tested,21,C
+Scout,Long Arm,Arc,Aggressive,No,"Rapid Hit
+Wellspring","Dragonfly
+Explosive Payload",Tex Balanced Stock,22,C
+Scout,Admetus-D,Void,High-Impact,Yes,"Repulsor Brace
+Rapid Hit","Demoralize
+Frenzy",Hakke Breach Armaments,23,C
+Scout,Servant Leader,Kinetic,Rapid,No,"Rapid Hit
+Shoot to Loot",Frenzy,Field-Tested,24,C
+Scout,Taraxippos,Strand,Lightweight,Yes,Enlightened Action,"Explosive Payload
+Hatchling",Classy Contender,25,C
+Scout,The Guiding Sight,Strand,High-Impact,Yes,"Enlightened Action
+Demolitionist
+Slice",Hatchling,Skulking Wolf,26,D
+Scout,Glissando-47,Strand,Precision,Yes,"Reconstruction
+Discord",Hatchling,Suros Synergy,27,D
+Scout,Pointed Inquiry,Void,High-Impact,Yes,"Stats for All
+Shoot to Loot",Dragonfly,Psychohack,28,D
+Scout,Aisha's Embrace,Void,Rapid,No,"Shoot to Loot
+Compulsive Reloader",Vorpal Weapon,One Quiet Moment,29,D
+Scout,Night Watch,Kinetic,Lightweight,No,Rapid Hit,Explosive Payload,,30,D
+Scout,Tears of Contrition,Kinetic,Precision,Yes,"Auto-Loading Holster
+Compulsive Reloader",Explosive Payload,Extrovert,31,E
+Scout,Talons of the Eagle,Kinetic,High-Impact,No,Outlaw,Explosive Payload,,32,E
+Scout,Contingency Plan,Arc,Rapid,No,Outlaw,Frenzy,,33,E
+Scout,Royal Chase,Void,Precision,No,"Auto-Loading Holster
+Field Prep",Dragonfly,,34,E
+Scout,Eternal Blazon,Arc,Lightweight,No,Rapid Hit,Kill Clip,,35,E
+Scout,Adverse Possession IX,Arc,Precision,Yes,Eddy Current,Frenzy,Suros Synergy,36,E
+Scout,Last Rite,Kinetic,Aggressive,No,"Reconstruction
+Keep Away",Focused Fury,Tex Balanced Stock,37,F
+Scout,Pleiades Corrector,Solar,Lightweight,No,Outlaw,"Demolitionist
+Multikill Clip",,38,F
+Scout,The Scholar,Kinetic,High-Impact,No,Slideways,Vorpal Weapon,,39,F
+Sidearm,Insurmountable,Void,Precision,Yes,"Repulsor Brace
+Attrition Orbs
+Demolitionist","Destabilizing Rounds
+Surrounded",Dark Ether Reaper,1,S
+Sidearm,Heliocentric QSc,Solar,Lightweight,Yes,"Heal Clip
+Demolitionist","Incandescent
+Frenzy
+Surrounded",Nadir Focus,2,S
+Sidearm,Division,Arc,Heavy Burst,Yes,"Eddy Current
+Pugilist
+Grave Robber","Voltshot
+Surrounded",Runneth Over,3,A
+Sidearm,Anonymous Autumn,Arc,Lightweight,Yes,"Eddy Current
+Demolitionist",Voltshot,Field-Tested,4,A
+Sidearm,Brigand's Law,Arc,Rapid,Yes,"Threat Detector
+Feeding Frenzy
+Pugilist","Voltshot
+Swashbuckler",Right Hook,5,A
+Sidearm,Drang (Baroque),Solar,Together Forever,Yes,"Wellspring
+Disruption Break","Incandescent
+Swashbuckler",To Excess,6,A
+Sidearm,Buzzard,Kinetic,Adaptive,No,"Compulsive Reloader
+Fourth Time's the Charm",Kinetic Tremors,Stunning Recovery,7,B
+Sidearm,Breachlight,Strand,Heavy Burst,Yes,"Demolitionist
+Pugilist
+Slice","Hatchling
+Swashbuckler",Cast No Shadows,8,B
+Sidearm,Peacebond,Stasis,Adaptive Burst,Yes,Headstone,"Rimestealer
+Demolitionist
+Desperado",Skulking Wolf,9,B
+Sidearm,Mykel's Reverence,Strand,Rapid,Yes,"Rewind Rounds
+Pugilist","Hatchling
+Frenzy
+Swashbuckler",Harmonic Resonance,10,B
+Sidearm,Liminal Vigil,Stasis,Heavy Burst,No,"Headstone
+Pugilist","Surrounded
+Swashbuckler
+Kill Clip",Tex Balanced Stock,11,B
+Sidearm,Senuna SI6,Stasis,Adaptive Burst,No,"Grave Robber
+Feeding Frenzy",Headstone,Omolon Fluid Dynamics,12,B
+Sidearm,Allied Demand,Kinetic,Adaptive,No,"Rapid Hit
+Auto-Loading Holster","Frenzy
+Under-Over",Field-Tested,13,C
+Sidearm,Punching Out,Solar,Rapid,No,"Threat Detector
+Grave Robber","Surrounded
+Frenzy
+Swashbuckler",Vanguard's Vindication,14,C
+Sidearm,Seventh Seraph SI-2,Void,Lightweight,No,"Demolitionist
+Threat Detector","Dragonfly
+Surrounded",,15,C
+Sidearm,The Vision,Arc,Adaptive Burst,No,Grave Robber,"Swashbuckler
+Kill Clip",,16,C
+Sidearm,The Keening,Arc,Adaptive,No,"Rapid Hit
+Threat Detector","Dragonfly
+Surrounded",One Quiet Moment,17,C
+Sidearm,Brass Attacks,Void,Heavy Burst,No,"Rapid Hit
+Threat Detector","Dragonfly
+Frenzy",,18,C
+Sidearm,Boudica-C,Kinetic,Precision,No,"Threat Detector
+Pugilist","Surrounded
+Frenzy",Hakke Breach Armaments,19,C
+Sidearm,Lonesome,Kinetic,Precision,No,"Grave Robber
+Rapid Hit",Swashbuckler,,20,D
+Sidearm,Enigma's Draw,Kinetic,Precision,No,Grave Robber,Swashbuckler,,21,D
+Sidearm,Controlling Vision,Kinetic,Adaptive,Yes,Surplus,"Surrounded
+High Ground",Field-Tested,22,D
+Sidearm,Spoiler Alert,Kinetic,Lightweight,No,Threat Detector,"Frenzy
+Swashbuckler",,23,D
+Sidearm,Redback-5SI,Solar,Lightweight,No,Compulsive Reloader,"Surrounded
+Vorpal Weapon",Veist Stinger,24,D
+Sidearm,Farewell,Kinetic,Lightweight,No,Subsistence,Frenzy,,25,E
+Sidearm,A Swift Verdict,Void,Precision,No,Threat Detector,Surrounded,,26,E
+Sidearm,The Last Dance,Arc,Adaptive Burst,No,Threat Detector,Dragonfly,,27,E
+Sidearm,Fioritura-59,Void,Rapid,No,"Threat Detector
+Pugilist","Repulsor Brace
+Swashbuckler",Suros Synergy,28,E
+Sidearm,The Fool's Remedy,Solar,Rapid,No,Feeding Frenzy,Kill Clip,,29,E
+Sidearm,Forgiveness,Arc,Heavy Burst,No,Demolitionist,Adrenaline Junkie,One Quiet Moment,30,F
+Sidearm,Empirical Evidence,Kinetic,Heavy Burst,Yes,"Compulsive Reloader
+Ensemble",Swashbuckler,Psychohack,31,F
+Sidearm,High Albedo,Kinetic,Adaptive Burst,No,Threat Detector,Demolitionist,,32,F
+SMG,The Recluse,Void,Lightweight,Yes,"Repulsor Brace
+Enlightened Action","Destabilizing Rounds
+Surrounded",Indomitability,1,S
+SMG,The Title,Void,Aggressive,Yes,"Repulsor Brace
+Threat Detector","Destabilizing Rounds
+Surrounded",Hakke Breach Armaments,2,S
+SMG,Imminence,Strand,Lightweight,Yes,"Enlightened Action
+Demolitionist
+Slice","Firefly
+Chaos Reshaped
+Hatchling",Collective Purpose,3,A
+SMG,Multimach CCX,Kinetic,Lightweight,Yes,Attrition Orbs,"Kinetic Tremors
+Frenzy",Field-Tested,4,A
+SMG,Shayura's Wrath,Void,Precision,Yes,"Repulsor Brace
+Discord",Destabilizing Rounds,One Quiet Moment,5,A
+SMG,Noxious Vetiver,Arc,Precision,Yes,"Attrition Orbs
+Loose Change
+Pugilist",Jolting Feedback,Dark Ether Reaper,6,A
+SMG,Subjunctive,Arc,Lightweight,Yes,"Threat Detector
+Stats for All
+Shoot to Loot","Voltshot
+Attrition Orbs",Nano-Munitions,7,B
+SMG,IKELOS_SMG_V1.0.3,Arc,Aggressive,Yes,"Threat Detector
+Shoot to Loot
+Feeding Frenzy","Voltshot
+Surrounded",Rasputin's Arsenal,8,B
+SMG,No Survivors,Solar,Aggressive,No,"Demolitionist
+Discord",Incandescent,Restoration Ritual,9,B
+SMG,CALUS Mini-Tool,Solar,MIDA Synergy,Yes,"Threat Detector
+Grave Robber","Incandescent
+Surrounded",To Excess,10,B
+SMG,The Hero's Burden,Void,Adaptive,No,Feeding Frenzy,Destabilizing Rounds,Skulking Wolf,11,B
+SMG,Bug-Out Bag,Solar,Adaptive,No,Threat Detector,Incandescent,Disaster Plan,12,B
+SMG,The Showrunner,Kinetic,Lightweight,No,"Grave Robber
+Overflow","Kinetic Tremors
+Swashbuckler",Vanguard's Vindication,13,C
+SMG,Perfect Pitch,Solar,Precision,Yes,Subsistence,"Incandescent
+Onslaught",Vanguard's Vindication,14,C
+SMG,Adjudicator,Kinetic,Precision,Yes,Threat Detector,"Kinetic Tremors
+Onslaught",Crossing Over,15,C
+SMG,Parabellum,Solar,Adaptive,Yes,"Shoot to Loot
+Heal Clip
+Rewind Rounds","Attrition Orbs
+Frenzy",Field-Tested,16,C
+SMG,Yarovit MG4,Stasis,Lightweight,Yes,"Enlightened Action
+Rewind Rounds","Headstone
+Surrounded
+Desperate Measures",Omolon Fluid Dynamics,17,D
+SMG,Prolonged Engagement,Stasis,Lightweight,No,"Grave Robber
+Feeding Frenzy
+Subsistence","Headstone
+Surrounded
+Frenzy",Veist Stinger,18,D
+SMG,Unending Tempest,Stasis,Precision,Yes,"Demolitionist
+Enlightened Action","Headstone
+Surrounded
+Frenzy",One Quiet Moment,19,D
+SMG,Blood Feud,Stasis,Aggressive,Yes,"Grave Robber
+Pugilist","Headstone
+Swashbuckler
+Frenzy",Right Hook,20,D
+SMG,Unforgiven,Void,Aggressive,No,"Demolitionist
+Feeding Frenzy","Dragonfly
+Frenzy
+Repulsor Brace",Bitterspite,21,D
+SMG,Cold Front,Kinetic,Aggressive,No,"Enlightened Action
+Rewind Rounds
+Stats for All","Frenzy
+One for All
+Attrition Orbs",Hakke Breach Armaments,22,E
+SMG,Mirror Imago,Strand,Adaptive,Yes,"Grave Robber
+Pugilist
+Subsistence","Hatchling
+Swashbuckler",Runneth Over,23,E
+SMG,The Immortal,Strand,Aggressive,No,Threat Detector,Hatchling,Field-Tested,24,E
+SMG,Synchronic Roulette,Strand,Precision,No,"Keep Away
+Envious Assassin",Hatchling,Nanotech Tracer Rockets,25,E
+SMG,Borrowed Time,Solar,Aggressive,No,"Threat Detector
+Grave Robber","Dragonfly
+Surrounded
+Frenzy",Field-Tested,26,E
+SMG,Forensic Nightmare,Stasis,Precision,Yes,Grave Robber,"Headstone
+Swashbuckler",Psychohack,27,E
+SMG,Submission,Kinetic,Lightweight,Yes,"Subsistence
+Overflow","Frenzy
+Swashbuckler",Souldrinker,28,E
+SMG,Funnelweb,Void,Lightweight,No,"Auto-Loading Holster
+Subsistence",Frenzy,Veist Stinger,29,E
+SMG,Out of Bounds,Arc,Lightweight,No,"Threat Detector
+Demolitionist
+Grave Robber","Surrounded
+Swashbuckler",One Quiet Moment,30,E
+SMG,Escape Velocity,Kinetic,Lightweight,No,"Threat Detector
+Grave Robber","Surrounded
+Vorpal Weapon",,31,E
+SMG,Boondoggle Mk. 55,Kinetic,Aggressive,Yes,"Pugilist
+Subsistence",Swashbuckler,Tex Balanced Stock,32,E
+SMG,Stochastic Variable,Arc,Lightweight,No,Feeding Frenzy,Dragonfly,,33,F
+SMG,Death Adder,Solar,Lightweight,No,"Feeding Frenzy
+Auto-Loading Holster",Dragonfly,,34,F
+SMG,Rapacious Appetite,Stasis,Aggressive,Yes,"Envious Assassin
+Fourth Time's the Charm","Headstone
+Frenzy
+One for All",Unsated Hunger,35,F
+SMG,Extraordinary Rendition,Kinetic,Aggressive,No,"Overflow
+Subsistence",Frenzy,,36,F
+SMG,Pizzicato-22,Kinetic,Adaptive,No,"Ensemble
+Ambitious Assassin",Swashbuckler,Suros Synergy,37,F
+SMG,Enyo-D,Kinetic,Precision,No,Feeding Frenzy,Surrounded,Hakke Breach Armaments,38,F
+SMG,Friction Fire,Kinetic,Precision,No,"Threat Detector
+Auto-Loading Holster","Rampage
+Vorpal Weapon",,39,F
+SMG,Seventh Seraph VY-7,Arc,Precision,No,Fourth Time's the Charm,Dragonfly,,40,F
+SMG,Every Waking Moment,Void,Precision,No,"Subsistence
+Ambitious Assassin",Dragonfly,,41,F

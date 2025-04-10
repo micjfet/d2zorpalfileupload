@@ -1,0 +1,562 @@
+Weapon,Name,Affinity,Frame,Enhance,Reserves,Column 1,Column 2,Origin Trait,Rank,Tier
+BGL,Ideal,Solar,Micro-Missile,Yes,25,"Envious Arsenal
+Heal Clip","Bait and Switch
+Chain Reaction
+Incandescent",Radiolaria Transposer,0,/
+BGL,Ideal,Arc,Area Denial,Yes,25,Attrition Orbs,Jolting Feedback,Radiolaria Transposer,0,/
+BGL,VS Velocity Baton,Void,Area Denial,Yes,25,"Repulsor Brace
+Demolitionist","Destabilizing Rounds
+Attrition Orbs",Bray Legacy,1,S
+BGL,"The Mountaintop
+BRAVE version",Kinetic,Micro-Missile,Yes,25,"Auto-Loading Holster
+Overflow
+Impulse Amplifier","Frenzy
+Recombination
+Vorpal Weapon",Indomitability,2,S
+BGL,Psychopomp,Arc,Area Denial,Yes,25,"Envious Arsenal
+Ambitious Assassin
+Pugilist","Elemental Honing
+Frenzy
+Rolling Storm",Runneth Over,3,S
+BGL,Lost Signal,Stasis,Area Denial,Yes,25,"Auto-Loading Holster
+Lead from Gold","Vorpal Weapon
+Demolitionist
+One for All",Radiolaria Transposer,4,S
+BGL,Liturgy,Stasis,Double Fire,Yes,25,"Slideways
+Envious Arsenal","Chill Clip
+Lead from Gold
+Chain Reaction",Dark Ether Reaper,5,A
+BGL,Martyr's Retribution,Solar,Wave,Yes,25,"Heal Clip
+Demolitionist
+Auto-Loading Holster","Incandescent
+Kill Clip
+Desperate Measures",Cast No Shadows,6,A
+BGL,Forbearance,Arc,Wave,Yes,25,"Ambitious Assassin
+Unrelenting","Chain Reaction
+Wellspring",Souldrinker,7,A
+BGL,"Forbearance
+BRAVE version",Arc,Wave,Yes,25,"Ambitious Assassin
+Demolitionist
+Unrelenting","Chain Reaction
+Desperate Measures
+Wellspring",Indomitability,8,A
+BGL,Wild Style,Solar,Double Fire,Yes,25,Reconstruction,"Bait and Switch
+Vorpal Weapon",Tex Balanced Stock,9,B
+BGL,New Pacific Epitaph,Stasis,Wave,No,25,"Demolitionist
+Lead from Gold",Redirection,Restoration Ritual,10,B
+BGL,Tusk of the Boar,Strand,Wave,Yes,25,"Slideways
+Slice","Chain Reaction
+Deconstruct",Field-Tested,11,B
+BGL,The Militia's Birthright,Kinetic,Lightweight,No,25,"Lead from Gold
+Slideways","Auto-Loading Holster
+Frenzy",Stunning Recovery,12,B
+BGL,Explosive Personality,Solar,Wave,Yes,25,Auto-Loading Holster,Frenzy,Land Tank,13,B
+BGL,Wilderflight,Void,Double Fire,No,23,"Auto-Loading Holster
+Demolitionist","Frenzy
+Vorpal Weapon
+Lead from Gold",Tex Balanced Stock,14,B
+BGL,Undercurrent,Arc,Wave,Yes,25,"Demolitionist
+Ambitious Assassin
+Lead from Gold","Voltshot
+One for All",Vanguard's Vindication,15,B
+BGL,Ignition Code,Kinetic,Lightweight,Yes,25,"Slideshot
+Lead from Gold",Frenzy,Splicer Surge,16,B
+BGL,Pardon Our Dust,Kinetic,Lightweight,Yes,25,Auto-Loading Holster,"Demolitionist
+Vorpal Weapon",Hot Swap,17,B
+BGL,Lingering Dread,Stasis,Lightweight,No,25,Auto-Loading Holster,Chill Clip,Bitterspite,18,C
+BGL,Harsh Language,Void,Wave,No,25,"Wellspring
+Envious Assassin","Destabilizing Rounds
+Repulsor Brace",Field-Tested,19,C
+BGL,Deafening Whisper,Void,Wave,No,25,"Ambitious Assassin
+Lead from Gold","Wellspring
+Auto-Loading Holster
+Rampage",,20,C
+BGL,Empty Vessel,Solar,Lightweight,No,25,"Auto-Loading Holster
+Lead from Gold","Demolitionist
+Vorpal Weapon",Field-Tested,21,D
+BGL,Salvager's Salvo,Arc,Lightweight,No,25,"Demolitionist
+Ambitious Assassin","Chain Reaction
+Vorpal Weapon",,22,D
+BGL,Orewing's Maul,Void,Lightweight,No,25,Field Prep,"Auto-Loading Holster
+Demolitionist",,23,E
+BGL,Prodigal Return,Arc,Lightweight,Yes,25,"Lead from Gold
+Envious Assassin","Voltshot
+Demolitionist",Noble Deeds,24,E
+BGL,Truthteller,Void,Lightweight,Yes,25,Grave Robber,Repulsor Brace,Field-Tested,25,F
+Fusion,Ideal,Solar,Rapid,Yes,28,"Overflow
+Envious Arsenal","Controlled Burst
+Reservoir Burst",Nanotech Tracer Rockets,0,/
+Fusion,Scatter Signal,Strand,Rapid,Yes,27,Overflow,Controlled Burst,Dragon's Vengeance,1,S
+Fusion,Zealot's Reward,Void,Rapid,Yes,25,"Auto-Loading Holster
+Lead from Gold
+Destabilizing Rounds","Controlled Burst
+Reservoir Burst",Photoinhibition,2,S
+Fusion,Riptide,Stasis,Rapid,Yes,27,"Auto-Loading Holster
+Lead from Gold
+Field Prep","Chill Clip
+Frenzy
+Demolitionist",One Quiet Moment,3,S
+Fusion,Royal Executioner,Solar,Adaptive,Yes,27,"Envious Assassin
+Lead from Gold","Reservoir Burst
+Incandescent",Noble Deeds,4,A
+Fusion,Glacioclasm,Void,High-Impact,Yes,25,"Envious Assassin
+Slideshot
+Air Trigger","Controlled Burst
+Reservoir Burst
+Withering Gaze",Dawning Surprise,5,A
+Fusion,Techeun Force,Arc,Adaptive,Yes,25,Rewind Rounds,Controlled Burst,Explosive Pact,6,A
+Fusion,Afterlight,Void,Adaptive,Yes,?,"Discord
+Lead from Gold
+Grave Robber","Reservoir Burst
+Destabilizing Rounds
+Vorpal Weapon",Willing Vessel,7,A
+Fusion,PLUG ONE.1,Arc,Precision,Yes,28,"Reconstruction
+Slideways","Reservoir Burst
+Controlled Burst
+Voltshot",Stunning Recovery,8,A
+Fusion,Axial Lacuna,Solar,Precision,Yes,27,"Reconstruction
+Demolitionist
+Cornered","Controlled Burst
+Surrounded",Dealer's Choice,9,A
+Fusion,Cartesian Coordinate,Solar,Rapid,No,28,Lead from Gold,Vorpal Weapon,,10,A
+Fusion,VS Gravitic Arrest,Void,Adaptive,Yes,27,Demolitionist,Withering Gaze,Bray Legacy,11,B
+Fusion,Loaded Question,Arc,High-Impact,No,28,"Envious Assassin
+Overflow
+Demolitionist","Controlled Burst
+Reservoir Burst",Stunning Recovery,12,B
+Fusion,The Eremite,Solar,High-Impact,Yes,25,"Envious Assassin
+Lead from Gold","Controlled Burst
+Reservoir Burst",Head Rush,13,B
+Fusion,Nox Perennial V,Strand,High-Impact,Yes,26,"Envious Assassin
+Lead from Gold",Controlled Burst,Wild Card,14,B
+Fusion,Cruoris FR4,Arc,Aggressive,Yes,?,"Discord
+Clown Cartridge","Elemental Honing
+Rolling Storm
+One for All",Omolon Fluid Dynamics,15,B
+Fusion,Deliverance,Stasis,Precision,Yes,28,Demolitionist,Chill Clip,Souldrinker,16,C
+Fusion,Resounding,Strand,Aggressive,Yes,?,Subsistence,Reservoir Burst,Vanguard's Vindication,17,C
+Fusion,Null Composure,Void,Rapid,No,28,Feeding Frenzy,Reservoir Burst,,18,C
+Fusion,Midha's Reckoning,Arc,High-Impact,Yes,26,Field Prep,Reservoir Burst,Runneth Over,19,C
+Fusion,Pressurized Precision,Strand,Adaptive,No,29,"Auto-Loading Holster
+Discord",Vorpal Weapon,Skulking Wolf,20,D
+Fusion,Iterative Loop,Arc,Rapid,Yes,29,Lead from Gold,"Voltshot
+Demolitionist",Nanotech Tracer Rockets,21,D
+Fusion,Burden of Guilt,Stasis,Adaptive,No,25,Perpetual Motion,"Chill Clip
+Vorpal Weapon",Alacrity,22,D
+Fusion,Exile's Curse,Arc,High-Impact,No,25,Slideshot,Vorpal Weapon,,23,D
+Fusion,Hollow Words,Arc,Precision,Yes,?,Lead from Gold,Vorpal Weapon,Paracausal Fluid,24,E
+Fusion,The Wizened Rebuke,Arc,High-Impact,No,27,Steady Hands,Vorpal Weapon,Skulking Wolf,25,E
+Fusion,Iota Draconis,Solar,High-Impact,No,26,Lead from Gold,Frenzy,,26,E
+Fusion,Dream Breaker,Solar,Adaptive,No,27,Lead from Gold,Frenzy,,27,E
+Fusion,Snorri FR5,Void,Precision,No,28,Surplus,"Frenzy
+Reservoir Burst",Omolon Fluid Dynamics,28,E
+Fusion,Aurvandil FR6,Stasis,High-Impact,No,24,Reconstruction,Chill Clip,Omolon Fluid Dynamics,29,E
+Fusion,Likely Suspect,Void,Rapid,Yes,27,Slideways,Golden Tricorn,Psychohack,30,F
+Fusion,Trinary System,Solar,Adaptive,No,27,Auto-Loading Holster,"High-Impact Reserves
+Demolitionist",Gun and Run,31,F
+Fusion,Main Ingredient,Arc,Precision,No,27,Auto-Loading Holster,High-Impact Reserves,,32,F
+Fusion,Timelines' Vertex,Solar,Adaptive,No,28,"Lead from Gold
+Auto-Loading Holster
+Field Prep",Demolitionist,,33,F
+Fusion,The Epicurean,Void,Precision,Yes,26,Ensemble,Repulsor Brace,To Excess,34,F
+Fusion,Coriolis Force,Void,Aggressive,No,27,Ambitious Assassin,One for All,,35,F
+Glaive,Ideal,Stasis,Adaptive,Yes,36,"Demolitionist
+Impulse Amplifier
+Lead from Gold","Chaos Reshaped
+Close to Melee
+Chill Clip",Extrovert,0,/
+Glaive,Rake Angle,Stasis,Aggressive,Yes,33,"Overflow
+Impulse Amplifier
+Lead from Gold","Chill Clip
+Close to Melee",Stunning Recovery,1,S
+Glaive,Forthcoming Deviance,Void,Rapid,Yes,36,"Impulse Amplifier
+Grave Robber
+Demolitionist","Close to Melee
+Chaos Reshaped
+Chain Reaction",Collective Purpose,2,S
+Glaive,Unexpected Resurgence,Arc,Adaptive,No,36,"Auto-Loading Holster
+Impulse Amplifier","Frenzy
+Close to Melee
+Voltshot",Alacrity,3,S
+Glaive,Nezarec's Whisper,Arc,Adaptive,Yes,36,"Demolitionist
+Impulse Amplifier
+Lead from Gold",Frenzy,Extrovert,4,S
+Glaive,Backfang,Arc,Rapid,Yes,36,"Impulse Amplifier
+Grave Robber
+Lead from Gold","Surrounded
+Close to Melee
+Voltshot",Gun and Run,5,A
+Glaive,Refusal of the Call,Strand,Adaptive,Yes,36,"Discord
+Impulse Amplifier
+Slice","Close to Melee
+Melee Momentum",Runneth Over,6,A
+Glaive,Albedo Wing,Arc,Aggressive,Yes,34,"Air Trigger
+Grave Robber","Lead from Gold
+Demolitionist
+Close to Melee",Dawning Surprise,7,A
+Glaive,The Enigma,Void,Adaptive,Yes,36,Impulse Amplifier,Frenzy,Psychohack,8,A
+Glaive,Judgment of Kelgorath,Solar,Aggressive,Yes,34,"Overflow
+Demolitionist
+Immovable Object","Close to Melee
+Unstoppable Force
+Impulse Amplifier",Ambush,9,B
+Glaive,Ecliptic Distaff,Void,Adaptive,No,35,"Immovable Object
+Replenishing Aegis",Close to Melee,One Quiet Moment,10,B
+Glaive,Greasy Luck,Solar,Rapid,No,36,"Impulse Amplifier
+Immovable Object
+Lead from Gold","Unstoppable Force
+Incandescent",Restoration Ritual,11,C
+Glaive,Lubrae's Ruin,Solar,Adaptive,Yes,35,"Immovable Object
+Sleight of Hand",Unstoppable Force,Souldrinker,12,C
+RocketSidearm,Ideal,Solar,-,Yes,57,"Heal Clip
+Air Trigger
+Lead from Gold","Incandescent
+Chain Reaction
+Surrounded",Cursed Thrall,0,/
+RocketSidearm,Aberrant Action,Solar,-,Yes,55,Heal Clip,Incandescent,Radiolaria Transposer,1,S
+RocketSidearm,Lotus-Eater,Void,-,Yes,?,"Repulsor Brace
+Reconstruction
+Shoot to Loot","Destabilizing Rounds
+Withering Gaze
+One for All",Stunning Recovery,2,S
+RocketSidearm,Tinasha's Mastery,Stasis,-,Yes,57,"Air Trigger
+Impulse Amplifier
+Deconstruct","Chill Clip
+Surrounded
+Desperate Measures",Skulking Wolf,3,S
+RocketSidearm,Indebted Kindness,Arc,-,No,55,"Impulse Amplifier
+Lead from Gold","Voltshot
+Surrounded
+Adagio",Sundering,4,A
+RocketSidearm,The Call,Strand,-,Yes,52,"Slice
+Lead from Gold
+Demolitionist","Desperate Measures
+Golden Tricorn
+One for All",Dealer's Choice,5,B
+Shotgun,Ideal,Kinetic,Rapid,Yes,31,"Lead from Gold
+Pugilist
+Air Trigger","One-Two Punch
+Cascade Point
+Surrounded",Cast No Shadows,0,/
+Shotgun,Ideal,Kinetic,Aggressive,Yes,26,"Lead from Gold
+Reconstruction
+Air Trigger","Recombination
+Trench Barrel
+Surrounded",Cast No Shadows,0,/
+Shotgun,Perfect Paradox,Kinetic,Rapid,Yes,31,"Field Prep
+Pugilist
+Threat Detector","One-Two Punch
+Trench Barrel
+Vorpal Weapon",Cast No Shadows,1,S
+Shotgun,Unvoiced,Void,Slug,Yes,24,"Redirection
+Envious Arsenal","Bait and Switch
+Vorpal Weapon",Subjugation,2,S
+Shotgun,IKELOS_SG_v1.0.3,Solar,Rapid,Yes,31,"Grave Robber
+Threat Detector
+Pugilist","One-Two Punch
+Surrounded
+Cascade Point",Rasputin's Arsenal,3,S
+Shotgun,Until Its Return,Strand,Rapid,Yes,31,"Auto-Loading Holster
+Overflow","Cascade Point
+Surrounded
+Vorpal Weapon",Unsated Hunger,4,S
+Shotgun,Imperial Decree,Kinetic,Aggressive,Yes,26,Auto-Loading Holster,"Trench Barrel
+Surrounded",To Excess,5,A
+Shotgun,Dead Weight,Arc,Rapid,No,31,"Grave Robber
+Auto-Loading Holster
+Lead from Gold","One-Two Punch
+Frenzy
+Surrounded",Field-Tested,6,A
+Shotgun,Swordbreaker,Strand,Lightweight,Yes,22,"Demolitionist
+Pugilist",One-Two Punch,Cursed Thrall,7,A
+Shotgun,Heritage,Kinetic,Slug,Yes,24,"Reconstruction
+Demolitionist",Recombination,Bray Inheritance,8,A
+Shotgun,Arcane Embrace,Arc,Heavy Burst,Yes,46,"Fourth Time's the Charm
+Air Trigger
+Grave Robber","Precision Instrument
+Surrounded
+Voltshot",Search Party,9,A
+Shotgun,Wastelander M5,Kinetic,Lightweight,Yes,22,"Lead from Gold
+Pugilist","One-Two Punch
+Vorpal Weapon",Hot Swap,10,A
+Shotgun,Basso Ostinato,Void,Rapid,No,31,"Grave Robber
+Lead from Gold",One-Two Punch,Nanotech Tracer Rockets,11,A
+Shotgun,One Small Step,Kinetic,Rapid,No,31,"Auto-Loading Holster
+Lead from Gold",One-Two Punch,,12,A
+Shotgun,The Deicide,Void,Rapid,No,31,"Grave Robber
+Lead from Gold","One-Two Punch
+Demolitionist",,13,A
+Shotgun,Someday,Kinetic,Precision,Yes,24,"Lead from Gold
+Dual Loader","Recombination
+Cascade Point
+Vorpal Weapon",Dealer's Choice,14,B
+Shotgun,Supercluster,Strand,Slug,Yes,24,"Reconstruction
+Fourth Time's the Charm","Vorpal Weapon
+Surrounded
+Cascade Point",Dragon's Vengeance,15,B
+Shotgun,Retrofuturist,Void,Lightweight,Yes,21,"Quickdraw
+Slickdraw
+Auto-Loading Holster","Frenzy
+Vorpal Weapon
+Trench Barrel",One Quiet Moment,16,B
+Shotgun,Xenoclast IV,Arc,Lightweight,No,22,"Grave Robber
+Auto-Loading Holster
+Lead from Gold","One-Two Punch
+Vorpal Weapon
+Demolitionist",Vanguard's Vindication,17,B
+Shotgun,Nessa's Oblation,Void,Slug,Yes,24,"Reconstruction
+Fourth Time's the Charm
+Demolitionist","Frenzy
+Vorpal Weapon
+Focused Fury",Harmonic Resonance,18,B
+Shotgun,Without Remorse,Solar,Lightweight,Yes,22,"Threat Detector
+Field Prep","Vorpal Weapon
+One-Two Punch",Extrovert,19,B
+Shotgun,Prophet of Doom,Arc,Precision,Yes,25,"Reconstruction
+Envious Arsenal
+Pugilist","One-Two Punch
+Trench Barrel
+Cascade Point",Photoinhibition,20,B
+Shotgun,Compass Rose,Solar,Precision,Yes,25,"Grave Robber
+Dual Loader","One-Two Punch
+Trench Barrel
+Vorpal Weapon",Dream Work,21,B
+Shotgun,Found Verdict,Arc,Aggressive,Yes,?,"Rewind Rounds
+Discord","Trench Barrel
+Elemental Honing
+Voltshot",Timelost Magazine,22,B
+Shotgun,A Sudden Death,Void,Aggressive,Yes,26,"Threat Detector
+Envious Assassin
+Discord","Trench Barrel
+One-Two Punch
+Cascade Point",Crossing Over,23,B
+Shotgun,Deadlock,Stasis,Precision,Yes,25,Grave Robber,"One-Two Punch
+Cascade Point",,24,B
+Shotgun,Legato-11,Solar,Slug,Yes,23,"Auto-Loading Holster
+Heal Clip
+Deconstruct","Vorpal Weapon
+Cascade Point
+Incandescent",Suros Synergy,25,C
+Shotgun,Sojourner's Tale,Solar,Slug,Yes,23,"Discord
+Auto-Loading Holster
+Heal Clip","Incandescent
+Precision Instrument",Splicer Surge,26,C
+Shotgun,Seventh Seraph CQC-12,Solar,Lightweight,No,22,"Auto-Loading Holster
+Lead from Gold","Vorpal Weapon
+Trench Barrel",,27,C
+Shotgun,Retold Tale,Void,Precision,No,23,Lead from Gold,One-Two Punch,Advanced Reflexes,28,C
+Shotgun,Matador 64,Arc,Precision,No,25,Lead from Gold,One-Two Punch,,29,C
+Shotgun,The Comedian,Void,Aggressive,No,26,"Ensemble
+Lead from Gold","Vorpal Weapon
+Trench Barrel",Stunning Recovery,30,C
+Shotgun,Deadpan Delivery,Arc,Aggressive,No,25,"Surplus
+Overflow
+Discord","Frenzy
+Trench Barrel",Nadir Focus,31,C
+Shotgun,Hand in Hand,Arc,Aggressive,No,25,Ensemble,"Trench Barrel
+Cascade Point",Field-Tested,32,C
+Shotgun,Fortissimo-11,Kinetic,Slug,No,25,"Demolitionist
+Threat Detector
+Fourth Time's the Charm","Frenzy
+Surrounded",Suros Synergy,33,C
+Shotgun,Ded Gramarye IV,Arc,Lightweight,Yes,21,"Discord
+Slickdraw","Chain Reaction
+Voltshot
+Vorpal Weapon",Wild Card,34,C
+Shotgun,Riiswalker,Kinetic,Lightweight,Yes,22,"Slickdraw
+Discord",Vorpal Weapon,Skulking Wolf,35,D
+Shotgun,The Inquisitor,Arc,Slug,Yes,24,Envious Assassin,"Bait and Switch
+Cascade Point
+Precision Instrument",Suros Synergy,36,D
+Shotgun,Ragnhild-D,Kinetic,Aggressive,Yes,24,Auto-Loading Holster,"Frenzy
+One-Two Punch",Hakke Breach Armaments,37,D
+Shotgun,Scavenger's Fate,Void,Precision,Yes,24,"Discord
+Repulsor Brace","Destabilizing Rounds
+Surrounded
+Frenzy",Dark Ether Reaper,38,D
+Shotgun,"First In, Last Out",Arc,Slug,No,23,Auto-Loading Holster,"Vorpal Weapon
+Surrounded
+Demolitionist",,39,D
+Shotgun,Gunnora's Axe,Arc,Slug,No,23,Auto-Loading Holster,"Vorpal Weapon
+Voltshot",Suros Synergy,40,D
+Shotgun,Fractethyst,Stasis,Precision,No,25,Lead from Gold,Trench Barrel,,41,D
+Shotgun,No Reprieve,Stasis,Slug,Yes,23,Triple Tap,"Surrounded
+Focused Fury",Right Hook,42,E
+Shotgun,Last Man Standing,Solar,Aggressive,No,25,Threat Detector,One-Two Punch,Disaster Plan,43,E
+Shotgun,Astral Horizon,Kinetic,Aggressive,No,26,Threat Detector,"Vorpal Weapon
+Cascade Point",Alacrity,44,E
+Shotgun,Mindbender's Ambition,Solar,Aggressive,No,24,Threat Detector,Vorpal Weapon,Stunning Recovery,45,E
+Shotgun,Felwinter's Lie,Solar,Aggressive,No,25,Surplus,Vorpal Weapon,,46,E
+Shotgun,Wishbringer,Solar,Rapid,No,31,Threat Detector,Auto-Loading Holster,,47,F
+Shotgun,Toil and Trouble,Kinetic,Aggressive,No,24,Threat Detector,Auto-Loading Holster,,48,F
+Shotgun,Blasphemer,Kinetic,Slug,No,24,Fourth Time's the Charm,Swashbuckler,,49,F
+Shotgun,Bonechiller,Void,Slug,No,24,"Lead from Gold
+Triple Tap",Demolitionist,,50,F
+Shotgun,Reckless Endangerment,Kinetic,Lightweight,No,22,Steady Hands,Swashbuckler,One Quiet Moment,51,F
+Sniper,Ideal,Kinetic,Rapid,Yes,41,"Fourth Time's the Charm
+Envious Arsenal
+Rewind Rounds","Kinetic Tremors
+Chaos Reshaped
+Cascade Point",Nanotech Tracer Rockets,0,/
+Sniper,Praedyth's Revenge,Kinetic,Rapid,Yes,41,"Fourth Time's the Charm
+Kinetic Tremors
+Envious Arsenal","Bait and Switch
+Elemental Honing",Timelost Magazine,1,S
+Sniper,The Supremacy,Kinetic,Rapid,Yes,39,"Rewind Rounds
+Lead from Gold
+Discord","Kinetic Tremors
+Bait and Switch
+Fourth Time's the Charm",Explosive Pact,2,S
+Sniper,Critical Anomaly,Stasis,Aggressive,Yes,27,"Chill Clip
+Rewind Rounds",Chaos Reshaped,Collective Purpose,3,S
+Sniper,Keen Thistle,Solar,Aggressive,Yes,27,"Envious Arsenal
+Incandescent
+Triple Tap","Bait and Switch
+Discord
+Fourth Time's the Charm",Hakke Breach Armaments,4,A
+Sniper,"Succession
+BRAVE version",Kinetic,Aggressive,Yes,27,"Reconstruction
+Demolitionist
+Discord","Recombination
+Vorpal Weapon
+Redirection",Indomitability,5,A
+Sniper,Succession,Kinetic,Aggressive,Yes,27,"Reconstruction
+Demolitionist","Recombination
+Vorpal Weapon
+Osmosis",Bray Inheritance,6,A
+Sniper,Omniscient Eye,Solar,Rapid,Yes,40,"Fourth Time's the Charm
+Envious Arsenal","Precision Instrument
+Vorpal Weapon",Photoinhibition,7,A
+Sniper,Irukandji,Stasis,Rapid,No,40,"Fourth Time's the Charm
+Shoot to Loot",Firing Line,Veist Stinger,8,A
+Sniper,Veleda-F,Void,Aggressive,Yes,25,"Air Trigger
+Slickdraw",Withering Gaze,Hakke Breach Armaments,9,A
+Sniper,Sovereignty,Void,Adaptive,Yes,30,"Demolitionist
+Explosive Payload",Withering Gaze,Dark Ether Reaper,10,A
+Sniper,Distant Tumulus,Solar,Rapid,No,40,"Clown Cartridge
+Lead from Gold",Firing Line,,11,B
+Sniper,Twilight Oath,Solar,Rapid,No,40,Envious Assassin,"Vorpal Weapon
+Precision Instrument
+High Ground",Advanced Reflexes,12,B
+Sniper,IKELOS_SR_v1.0.3,Solar,Rapid,Yes,40,Fourth Time's the Charm,Focused Fury,Rasputin's Arsenal,13,B
+Sniper,Naeem's Lance,Strand,Rapid,No,41,"Reconstruction
+Discord","Precision Instrument
+High Ground",Sundering,14,B
+Sniper,Uzume RR4,Solar,Adaptive,Yes,31,"Fourth Time's the Charm
+Discord
+Attrition Orbs","Precision Instrument
+Deconstruct
+Vorpal Weapon",Stunning Recovery,15,C
+Sniper,Fugue-55,Void,Adaptive,No,31,"Fourth Time's the Charm
+Auto-Loading Holster
+Lead from Gold","Firing Line
+Vorpal Weapon",Suros Synergy,16,C
+Sniper,Embraced Identity,Void,Adaptive,Yes,30,"Rewind Rounds
+Attrition Orbs","Fourth Time's the Charm
+Precision Instrument
+High Ground",Dealer's Choice,17,C
+Sniper,Frozen Orbit,Void,Aggressive,No,26,"Auto-Loading Holster
+Lead from Gold","Vorpal Weapon
+Demolitionist",One Quiet Moment,18,C
+Sniper,Tranquility,Kinetic,Adaptive,No,30,"Auto-Loading Holster
+Lead from Gold","Firing Line
+Frenzy
+Demolitionist",,19,D
+Sniper,Defiance of Yasmin,Kinetic,Adaptive,Yes,30,"Lead from Gold
+Shoot to Loot
+Osmosis","Firing Line
+Demolitionist",Runneth Over,20,D
+Sniper,Father's Sins,Void,Rapid,Yes,40,"Triple Tap
+Shoot to Loot
+Lead from Gold",Focused Fury,Psychohack,21,D
+Sniper,A Distant Pull,Stasis,Rapid,Yes,39,Triple Tap,Focused Fury,Unsated Hunger,22,D
+Sniper,Locus Locutus,Stasis,Adaptive,Yes,31,"Overflow
+Discord","Firing Line
+High Ground",Head Rush,23,D
+Sniper,Volta Bracket,Strand,Aggressive,Yes,25,Envious Assassin,"Cascade Point
+Firing Line",Nanotech Tracer Rockets,24,D
+Sniper,The Long Walk,Solar,Aggressive,No,26,Overflow,"Firing Line
+Frenzy",,25,D
+Sniper,Occluded Finality,Arc,Aggressive,No,27,Auto-Loading Holster,"Firing Line
+Vorpal Weapon
+Demolitionist",Suros Synergy,26,D
+Sniper,Thoughtless,Stasis,Adaptive,Yes,31,Overflow,"Firing Line
+Focused Fury",Land Tank,27,D
+Sniper,Mechabre,Arc,Aggressive,Yes,26,"Triple Tap
+Demolitionist","Firing Line
+Vorpal Weapon",Search Party,28,D
+Sniper,Luna Regolith III,Solar,Aggressive,Yes,25,Clown Cartridge,"Firing Line
+High Ground
+Cascade Point",Wild Card,29,D
+Sniper,Last Foray,Solar,Aggressive,Yes,25,"Envious Assassin
+Discord","Cascade Point
+Frenzy
+Incandescent",Field-Tested,30,D
+Sniper,Far Future,Solar,Adaptive,No,29,"Auto-Loading Holster
+Lead from Gold","Frenzy
+Demolitionist",,31,D
+Sniper,Albruna-D,Arc,Aggressive,Yes,26,Clown Cartridge,"Cascade Point
+Firing Line",Hakke Breach Armaments,32,D
+Sniper,Bite of the Fox,Kinetic,Aggressive,No,26,Envious Assassin,Vorpal Weapon,Skulking Wolf,33,D
+Sniper,Silicon Neuroma,Kinetic,Aggressive,No,26,Triple Tap,"Firing Line
+Focused Fury
+Demolitionist",Stunning Recovery,34,D
+Sniper,Adored,Arc,Adaptive,No,26,Triple Tap,Vorpal Weapon,,35,D
+Sniper,Beloved,Solar,Adaptive,Yes,30,Fourth Time's the Charm,"Box Breathing
+Incandescent",To Excess,36,E
+Sniper,Persuader,Void,Rapid,No,39,"Discord
+Repulsor Brace","High Ground
+Destabilizing Rounds
+Triple Tap",Vanguard's Vindication,37,E
+Sniper,Sole Survivor,Arc,Adaptive,No,30,Lead from Gold,"Firing Line
+Vorpal Weapon
+Voltshot",Disaster Plan,38,E
+Sniper,Shepherd's Watch,Kinetic,Adaptive,No,29,Lead from Gold,"Firing Line
+Frenzy
+Demolitionist",,39,E
+Sniper,Eye of Sol,Kinetic,Adaptive,Yes,31,Slickdraw,"Firing Line
+Vorpal Weapon",Wild Card,40,E
+Sniper,Gallu RR3,Arc,Adaptive,No,30,"Overflow
+Shoot to Loot","Focused Fury
+Snapshot Sights",Omolon Fluid Dynamics,41,E
+Sniper,Mercurial Overreach,Arc,Adaptive,Yes,31,Discord,Vorpal Weapon,,42,E
+Sniper,Long Shadow,Kinetic,Adaptive,No,29,Field Prep,Triple Tap,,43,F
+Sniper,Widow's Bite,Solar,Rapid,No,38,Lead from Gold,Demolitionist,,44,F
+Sniper,1000 Yard Stare,Void,Adaptive,No,31,Triple Tap,"Demolitionist
+Golden Tricorn",,45,F
+Sniper,The Domino,Solar,Adaptive,Yes,30,Overflow,Incandescent,Nadir Focus,46,F
+Sniper,Apostate,Arc,Rapid,No,41,Lead from Gold,Wellspring,,47,F
+Trace,Ideal,Arc,Adaptive,Yes,687,"Shoot to Loot
+Demolitionist","Lead from Gold
+Jolting Feedback",Dark Ether Reaper,0,/
+Trace,Chronophage,Void,Adaptive,Yes,652,"Shoot to Loot
+Repulsor Brace","Destabilizing Rounds
+Demolitionist
+Desperate Measures",Radiolaria Transposer,1,S
+Trace,Unsworn,Strand,Adaptive,Yes,679,"Shoot to Loot
+Tear
+Rewind Rounds","Detonator Beam
+Elemental Honing
+Hatchling",Subjugation,2,S
+Trace,Retraced Path,Solar,Adaptive,Yes,679,Shoot to Loot,"Demolitionist
+Frenzy
+Incandescent",Hot Swap,3,A
+Trace,Path of Least Resistance,Arc,Adaptive,Yes,663,Shoot to Loot,Voltshot,Ambush,4,A
+Trace,Keraunios,Arc,Adaptive,Yes,?,"Discord
+Recycled Energy","Detonator Beam
+Jolting Feedback
+Rolling Storm",Classy Contender,5,A
+Trace,Warlord's Spear,Arc,Adaptive,Yes,?,"Rewind Rounds
+Loose Change","Detonator Beam
+Jolting Feedback
+Desperate Measures",Skulking Wolf,6,A
+Trace,Hollow Denial,Void,Adaptive,Yes,687,Lead from Gold,Repulsor Brace,Extrovert,7,B
+Trace,Appetence,Stasis,Adaptive,Yes,668,"Demolitionist
+Overflow","Headstone
+Deconstruct
+Attrition Orbs",Dragon's Vengeance,8,B
+Trace,Acasia's Dejection,Solar,Adaptive,Yes,684,"Reconstruction
+Field Prep","Frenzy
+Incandescent",Harmonic Resonance,9,C
+Trace,Incisor,Strand,Adaptive,Yes,687,Slice,"Attrition Orbs
+Hatchling",One Quiet Moment,10,D
